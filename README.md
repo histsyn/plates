@@ -43,3 +43,17 @@ Do not add an image here without a source, a licence and a credit line.
 The highlighted crops were produced by the workspace tool
 `tools/scan_highlights.py`, which paints the quoted line on the scan; every
 highlight was checked by eye before use.
+
+## MotorBus1920s — The Buses' Free-for-All and the 1933 Settlement (1919–1933)
+
+| file | what it shows | source | credit / licence |
+|---|---|---|---|
+| `gaz_1933-01-13_S10_award_crop.jpg` | Government Gazette, 13 Jan 1933, Notification No. S. 10 — the franchise award: Island to the China Motor Bus Co., Kowloon and the New Territories to the Kowloon Motor Bus Co.; highlighted line "Tender for Road Passenger Transport." | https://hkintexts.histsyn.com/image-page/1486572 | Government Gazette (Hong Kong), 13 Jan 1933, No. S. 10; hkintexts image series, accessed 10 Oct 2026. Public record. |
+| `gaz_1932-09-02_S319_tender_crop.jpg` | Government Gazette, 2 Sep 1932, Notification S. 319 — the fifteen-year franchise tender terms; highlighted line "The licence or licences will be for a period or term of Fifteen years commencing" (next line: "on the 11th day of June, 1933") | https://hkintexts.histsyn.com/image-page/1484336 | Government Gazette (Hong Kong), 2 Sep 1932, S. 319; hkintexts image series, accessed 10 Oct 2026. Public record. |
+| `gaz_1926_kaitack_liquidation_crop.jpg` | Gazette supplement, 1926 (printed p. 577) — the first Kai Tack Motor Bus Company in voluntary liquidation; creditors' meeting 12 Oct 1926 at 26 Des Voeux Road Central; highlighted line "(In Voluntary Liquidation)" | https://hkintexts.histsyn.com/image-page/1458491 | Government Gazette (Hong Kong), 1926 supplement, printed p. 577; hkintexts image series, accessed 10 Oct 2026. Public record. |
+| `gaz_1933-08-04_no529_strikeoff_crop.jpg` | Government Gazette, 4 Aug 1933, No. 529 — the Kai Tack Motor Bus Company (1926), Limited strike-off warning; highlighted line "…be struck off the register and the company will be dissolved." | https://hkintexts.histsyn.com/image-page/1489491 | Government Gazette (Hong Kong), 4 Aug 1933, No. 529; hkintexts image series, accessed 10 Oct 2026. Public record. |
+| `web_kmb_thornycroft_pd.jpg` | A KMB Thornycroft CD4LW Cygnet single-deck bus, late 1930s (KMB bought 17 of this chassis 1938-39); destination blind "STAR FERRY 尖沙咀", route 6, front plate …779 | https://commons.wikimedia.org/wiki/File:KMB_Thornycroft_CD4LW_Cygnet.jpg | Unknown author, via Wikimedia Commons — **public domain** (credit printed for provenance). |
+| `web_praya_bus_1930s_pd.jpg` | A 1930s street scene on Connaught Road Central with a single-deck bus toward the camera ("Central Connaught Road in the 1930s" per the Commons description) | https://commons.wikimedia.org/wiki/File:1930s_praya_central-gpo_bus.jpg | Unknown author, via Wikimedia Commons — **public domain** (credit printed for provenance). |
+
+MotorBus1920s plates were read and verified with `tools/read_image.py`
+(GLM-5.3-Flash via the NVIDIA endpoint) before use — the 2026-10-10 image pass.

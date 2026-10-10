@@ -57,3 +57,16 @@ highlight was checked by eye before use.
 
 MotorBus1920s plates were read and verified with `tools/read_image.py`
 (GLM-5.3-Flash via the NVIDIA endpoint) before use — the 2026-10-10 image pass.
+
+## FirstCar1900 — The Dentist, the Young Master and the Proud Possessor (Hong Kong's first automobile, 1888–1968)
+
+| file | what it shows | source | credit / licence |
+|---|---|---|---|
+| `cm_1890_noble_return_crop.jpg` | *China Mail*, 8 Apr 1890, p. 1 — the POATE & NOBLE, Dental Surgeons advertisement; highlighted notice "DR. NOBLE has Returned to the Colony and RESUMED PRACTICE. Hongkong, April 5, 1890." | https://hkintexts.histsyn.com/image-page/1204943 | *China Mail*, 8 Apr 1890, p. 1; hkintexts image series, accessed 10 Oct 2026. Public record (1890 newspaper). |
+| `dir_1908_dentists_crop.jpg` | *Directory and Chronicle* 1908, p. 1164 — the classified DENTISTS list: "Kew Brothers / Noble, Dr. J. W. / Wilson, Dr. Newell" — both dentists of the first-car story in one list; highlighted "Kew Brothers, Dr." | https://hkintexts.histsyn.com/image-page/1035667 | *Directory and Chronicle* 1908, p. 1164; hkintexts image series, accessed 10 Oct 2026. Public record. |
+| `dir_1910_kew_motor_crop.jpg` | *Directory and Chronicle* 1910, p. 1644 — the Kew family entries: three dentists + "Kew, J. W., consulting and motor engineer, J. W. Kew & Co., Hongkong"; highlighted "Kew, J. W., consulting and motor engineer" | https://hkintexts.histsyn.com/image-page/923492 | *Directory and Chronicle* 1910, p. 1644; hkintexts image series, accessed 10 Oct 2026. Public record. |
+| `cm_1912_noble_knox_crop.jpg` | *China Mail*, 12 Aug 1912, p. 2 — the Motor Car Regulations letter; highlighted "of Dr. J. W. Noble, the pioneer motorist" (the image-index OCR layer misread "Nohle"; the scan reads "Noble") | https://hkintexts.histsyn.com/image-page/1714128 | *China Mail*, 12 Aug 1912, p. 2; hkintexts image series, accessed 10 Oct 2026. Public record (1912 newspaper). |
+| `web_oldsmobile_curveddash_1905_cc.jpg` | A 1905 Oldsmobile Curved Dash Runabout — the single-cylinder, chain-driven type the 1931 Hodgson talk describes for Hong Kong's first car ("one cylinder, chain driven with the engine at the rear"). An illustration of the TYPE, not the actual 1908 Hong Kong car | https://commons.wikimedia.org/wiki/File:Oldsmobile_Curved_Dash_Runabout_1905.jpg | Lars-Göran Lindgren Sweden, via Wikimedia Commons — **CC BY-SA 3.0**; author, licence and link must appear in the caption. |
+
+FirstCar1900 plates were read and verified by eye (vision-capable research model,
+opencode `read`) before use — the 2026-10-10 image pass.

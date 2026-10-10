@@ -1,5 +1,15 @@
 # plates — Histsyn research-paper plate images
 
+![The KCR terminus at Tsim Sha Tsui, c. 1916](cover.jpg)
+
+*Cover photo: the Kowloon-Canton Railway terminus at Tsim Sha Tsui,
+c. 1916 — the clock tower standing beside the station building five years
+after the line opened (the clock was fitted in 1921). Photograph by
+**Wrightbus**, via Wikimedia Commons — **public domain**;
+source: https://commons.wikimedia.org/wiki/File:Kcr_tst_1916.jpg
+(accessed 10 October 2026).*
+
+
 Plate images (illustrations) for the research papers published by
 [Histsyn](https://www.histsyn.com/), served over GitHub Pages:
 

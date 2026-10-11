@@ -150,3 +150,28 @@ keyword — "Gower-Bell" — before acceptance).
 | `cm1881_oriental_agm_hl.jpg` | The China Mail, 21 May 1881, p. 9 — "The Institution of the Telephone Exchange… promises soon to become an accomplished fact in Hongkong"; box on the "Oriental Telephone Comp[any's] … agents … Gibb, Livingstone and Co." line. | https://hkintexts.histsyn.com/image-page/1194915 | The China Mail, 21 May 1881, p. 9; hkintexts image series, accessed 11 Oct 2026. Public record (1881 newspaper). |
 | `gaz1881_edison_petition_hl.jpg` | The Hongkong Government Gazette, 28 May 1881, p. 383 — the notice of Joseph Morris's petition (as agent for Thomas A. Edison) for the Carbon Telephone patent; box on "the Carbon Telephone, for which Letters" line. | https://hkintexts.histsyn.com/image-page/1505059 | Hongkong Government Gazette, 28 May 1881; hkintexts image series, accessed 11 Oct 2026. Public record (1881 government gazette). |
 | `gaz1881_bell_edison_ad_hl.jpg` | The Hongkong Government Gazette, 12 Nov 1881, p. 1004 — the full "BELL & EDISON'S SYSTEM" advertisement ($150/yr town subscription; boundaries West Gas Works / East Police Station No. 2 / South Caine & Kennedy Roads; signed A. Suenson, 10 Nov 1881); box on the "Permission having been granted" lines. | https://hkintexts.histsyn.com/image-page/1505669 | Hongkong Government Gazette, 12 Nov 1881; hkintexts image series, accessed 11 Oct 2026. Public record (1881 government gazette). |
+
+## GreatStrike1925 — The Strike and the Two Voices (省港大罷工, 1925–26)
+
+Reworked thread, 11 October 2026. Seven document plates, all from
+image-series twins of the cited pages (the 1925–26 daily press has no
+image twin, so its citations stay text-series). Two of the seven plates
+(`ar1925_exodus`, `sp1926_thing_past`) had `scan_highlights.py` OCR boxes
+land one line low; both were re-seated by hand with a manual PIL painter
+after probe crops read with the research model's own eyes, and every one
+of the seven was read back at its final crop before use (the §6B gate).
+
+| file | what it shows | source | credit / licence |
+|---|---|---|---|
+| `ar1925_exodus_hl.jpg` | Administrative Reports 1925, section C (Labour), printed p. C17 — boxes on "On the 19th men employed by the Hongkong and Macao Steamboat Co. went on strike." and "the strike was almost general. It is estimated that during the first two weeks of the strike over 50,000 persons left the Colony." (hand-seated). | https://hkintexts.histsyn.com/image-page/427008 | Administrative Reports, Hongkong, 1925; hkintexts image series, accessed 11 Oct 2026. Public record. |
+| `ar1925_strike_start_hl.jpg` | Administrative Reports 1925, section K (Police), printed p. K15 — box on "anti-strike arrangements from the outbreak of the Strike on June 19th until my return from Wei Hai Wei on July 9th". | https://hkintexts.histsyn.com/image-page/427193 | Administrative Reports, Hongkong, 1925; hkintexts image series, accessed 11 Oct 2026. Public record. |
+| `ar1925_labour_bureau_hl.jpg` | Administrative Reports 1925, section K (Police), printed p. K19 — box on "25,000 coolies were collected and sent out to work. 170,000 tons of cargo were handled on behalf of one Company alone" (tonnage clause continues on the next line, visible beneath the box). | https://hkintexts.histsyn.com/image-page/427197 | Administrative Reports, Hongkong, 1925; hkintexts image series, accessed 11 Oct 2026. Public record. |
+| `gaz1925_gn367_hl.jpg` | Government Gazette, 19 June 1925, printed p. 319 — Notification No. 367, the export embargo; box on "Except under licence from the Colonial Secretary, the export of the following articles is prohibited:—" (the five-item list follows in view). Regulation dated 22 June 1925 — one day before Shameen. | https://hkintexts.histsyn.com/image-page/1526282 | The Hongkong Government Gazette, 19 June 1925; hkintexts image series, accessed 11 Oct 2026. Public record. |
+| `gaz1925_gn561_hl.jpg` | Government Gazette, 9 October 1925, printed p. 472 — Notification No. 561, the embargo's partial removal; box on "as Notification No. 367 shall cease to have force and effect as from the 8th day of October, 1925, as far as concerns the exportation of Rice, Flour," (continues "and Tinned or preserved foodstuffs."). | https://hkintexts.histsyn.com/image-page/1526420 | The Hongkong Government Gazette, 9 October 1925; hkintexts image series, accessed 11 Oct 2026. Public record. |
+| `sp1926_thing_past_hl.jpg` | Sessional Paper 1926, No. 8 of 1926, printed p. 79 — box on "Mr. Ch'ên that the strike in Hongkong has long been a thing of the past, but that I have" (hand-seated after the tool's +50px re-seat landed one line low). | https://hkintexts.histsyn.com/image-page/1621714 | Sessional Papers, Hongkong, 1926, No. 8; hkintexts image series, accessed 11 Oct 2026. Public record. |
+| `sp1926_robbers_hl.jpg` | Sessional Paper 1926, No. 8 of 1926, printed p. 111 — the translation of the Canton 民國日報 of 27 August 1926; box on "We can reply to the Hong Kong Imperialists thus:—'You are robbers. You" (sentence continues "are pirates. If you are not…" on the next line). | https://hkintexts.histsyn.com/image-page/1621746 | Sessional Papers, Hongkong, 1926, No. 8; hkintexts image series, accessed 11 Oct 2026. Public record. |
+
+The Gazette's running head on the G.N. 367 plate prints "JUNE 19, 1925"
+while the regulation itself is dated "this 22nd day of June, 1925" —
+cite the printed date of the regulation (22 June) and the plate's printed
+page 319.

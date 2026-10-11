@@ -83,4 +83,10 @@ opencode `read`) before use — the 2026-10-10 image pass.
 | `crop_ord_1910.jpg` | *Government Gazette*, 22 Jul 1910, p. 292 — No. 17 of 1910, the Ordinance to amend the Theatres and Public Performances Regulation Ordinance, 1908 (the censorship clause). | https://hkintexts.histsyn.com/image-page/1476843 | *Hong Kong Government Gazette*, 22 Jul 1910, p. 292; hkintexts image series, accessed 10 Oct 2026. Public record. |
 
 FirstCinema plates were read and verified by eye (vision-capable research
-model, opencode `read`) before use — the 2026-10-10 image pass.
+model, opencode `read`) before use — the 2026-10-10 image pass; the batch was
+then **re-made on 2026-10-11** with `tools/scan_highlights.py` (highlight
+boxes re-seated on the ink bands — five plates) except `crop_salon_first_ad.jpg`,
+whose OCR layer has no boxes on the ad block and was cropped by eye from the
+full scan. The read-back caught a quote error: the 1900 opening ad's
+admission is Front Seats $2.00 / Back Seats $1.00, not the 1897 ad's
+"ONE DOLLAR" — corrected in the paper, notes and post.

@@ -175,3 +175,32 @@ The Gazette's running head on the G.N. 367 plate prints "JUNE 19, 1925"
 while the regulation itself is dated "this 22nd day of June, 1925" —
 cite the printed date of the regulation (22 June) and the plate's printed
 page 319.
+
+## HKHotel — The Grand Hotel's First Hundred Years (香港大酒店, 1865–1958)
+
+Redo thread, 11 October 2026. Five document plates, all read back with
+the research model's own eyes at their final crops before use (the §6B
+gate); two were re-made (the editorial crop extended to its headline,
+the Victoria-Hotel ad re-boxed onto its two closing lines) and re-read
+after the re-make. The Daily Press and the *Hongkong Telegraph* have no
+image series, so their citations stay text-series; the 1926 fire pages
+and the 1883 lift advertisement have no image coverage at all.
+
+| file | what it shows | source | credit / licence |
+|---|---|---|---|
+| `explosion_1868_cm_hl.jpg` | The China Mail, 1 June 1868, printed p. 3 — column crop of the report of the attempt of Sunday 31 May 1868; boxes on the headline "ATTEMPT TO BLOW UP THE UNION DOCK COMPANY'S OFFICE IN THE HONGKONG HOTEL.", on "About nine o'clock last night an explosion was heard on the Hotel premises", and on "well-planned attempt to blow up the place with gunpowder. Five torpedoes had been laid, in various parts of the office, in the shape of brown-paper parcels of from 1 to 1½ lbs. of gunpowder, over which fired joss-sticks were laid." | https://hkintexts.histsyn.com/image-page/1184030 | The China Mail, 1 June 1868; hkintexts image series, accessed 11 Oct 2026. Out of copyright. |
+| `editorial_1868_cm_hl.jpg` | The China Mail, 1 June 1868, printed p. 2 — the editorial "GUY FAWKES IN HONGKONG." in a column crop; boxes on the headline, "allusion to the diabolical attempt which", "Hongkong Hotel are by this time pretty", "(some 7 lbs. in all) is not such as to jus-", "unless the destruction of the Hotel was", and "apparently objectless, attempt to damage / the Hotel and its occupants." | https://hkintexts.histsyn.com/image-page/1184029 | The China Mail, 1 June 1868; hkintexts image series, accessed 11 Oct 2026. Out of copyright. |
+| `dir1866_hotel_co_hl.jpg` | Directory and Chronicle, 1866, **printed p. 146** — the companies list with "HONGKONG HOTEL COMPANY. (LIMITED.) Secretary pro tem.—Gifford F. Parker" boxed; the Union Dock Company's entry sits directly beneath it. | https://hkintexts.histsyn.com/image-page/896327 | Directory and Chronicle, Hongkong, 1866; hkintexts image series, accessed 11 Oct 2026. Out of copyright. |
+| `chron_1869_attempt_hl.jpg` | Directory and Chronicle, 1869, **printed p. 18** — the June table of "THE CALENDAR FOR 1869", with the "Chronology of Remarkable Events" entry "Attempt to blow up the Hongkong Hotel, 1868." boxed on the 1 June row. | https://hkintexts.histsyn.com/image-page/896546 | Directory and Chronicle, Hongkong, 1869; hkintexts image series, accessed 11 Oct 2026. Out of copyright. |
+| `ad_1885_hotel_hl.jpg` | Directory and Chronicle, 1885, printed p. 4 — the full-page display advertisement of the Victoria Hotel, with "DORABJEE & HINGKEE, Proprietors, LATE LESSEES OF THE HONGKONG HOTEL." boxed on the two closing lines. | https://hkintexts.histsyn.com/image-page/904004 | Directory and Chronicle, Hongkong, 1885; hkintexts image series, accessed 11 Oct 2026. Out of copyright. |
+
+Reference files (untouched scans, not published as plates):
+`explosion_1868_cm.jpg` (full page of plate 1), `reward_1868_cm.jpg`
+(full page of plate 2 — it also carries the $500 reward notice at the
+head of column 3), `reward_1868_cm_crop.jpg` (the notice's headline
+strip), `dir1866_hotel_co.jpg` (untouched spread, printed pp. 146–147),
+`chron_1869_attempt.jpg`, `ad_1885_hotel.jpg`.
+
+Page-number note: the 1866 leaf is indexed as p. 8 but **prints 146**;
+the 1869 calendar leaf is indexed as text p. 30 / image p. 29 but
+**prints 18**. Cite the printed number.

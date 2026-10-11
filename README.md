@@ -70,3 +70,17 @@ MotorBus1920s plates were read and verified with `tools/read_image.py`
 
 FirstCar1900 plates were read and verified by eye (vision-capable research model,
 opencode `read`) before use — the 2026-10-10 image pass.
+
+## FirstCinema — The Blurred First Pictures (Hong Kong's cinema, 1894–1916)
+
+| file | what it shows | source | credit / licence |
+|---|---|---|---|
+| `crop_1897_ad.jpg` | *China Mail*, 24 Apr 1897, p. 2 — the first-exhibition advertisement: "CITY HALL—MUSIC ROOM. FOR THE FIRST TIME IN HONG-KONG. THE CINEMATOGRAPH… Admission:—ONE DOLLAR; Children, half-price." | https://hkintexts.histsyn.com/image-page/1214945 | *China Mail*, 24 Apr 1897, p. 2; hkintexts image series, accessed 10 Oct 2026. Public record (1897 newspaper). |
+| `crop_opening_ad.jpg` | *China Mail*, 27 Oct 1900, p. 5 — the opening-night advertisement: "GRAND OPENING NIGHT TUESDAY, the 30th October… The TRANSVAAL WAR, THE BOER BATTERY CAPTURED BY BRITISH!" | https://hkintexts.histsyn.com/image-page/1311491 | *China Mail*, 27 Oct 1900, p. 5; hkintexts image series, accessed 10 Oct 2026. Public record. |
+| `crop_complaint_date.jpg` | *China Mail*, 31 Oct 1900, p. 2 — the complaint letter's opening: "Last night… the so-called 'Grand Exhibition of Cinematograph,' 'The Animated Moving Pictures of the Transvaal War.'" | https://hkintexts.histsyn.com/image-page/1311504 | *China Mail*, 31 Oct 1900, p. 2; hkintexts image series, accessed 10 Oct 2026. Public record. |
+| `crop_salon_first_ad.jpg` | *China Mail*, 30 Dec 1909, p. 8 — the Salon Cinema Theatre's first advertisement: "THE ONLY FIRST-CLASS SHOW IN THE COLONY… WYNDHAM (FLOWER) STREET, OPPOSITE G. P. O." | https://hkintexts.histsyn.com/image-page/1334720 | *China Mail*, 30 Dec 1909, p. 8; hkintexts image series, accessed 10 Oct 2026. Public record. |
+| `crop_regs_1909.jpg` | *Government Gazette*, 20 Aug 1909, p. 573 — the cinematograph fire regulations: iron/asbestos box, six feet from the audience, "two buckets of water and a wetted blanket." | https://hkintexts.histsyn.com/image-page/1473925 | *Hong Kong Government Gazette*, 20 Aug 1909, p. 573; hkintexts image series, accessed 10 Oct 2026. Public record. |
+| `crop_ord_1910.jpg` | *Government Gazette*, 22 Jul 1910, p. 292 — No. 17 of 1910, the Ordinance to amend the Theatres and Public Performances Regulation Ordinance, 1908 (the censorship clause). | https://hkintexts.histsyn.com/image-page/1476843 | *Hong Kong Government Gazette*, 22 Jul 1910, p. 292; hkintexts image series, accessed 10 Oct 2026. Public record. |
+
+FirstCinema plates were read and verified by eye (vision-capable research
+model, opencode `read`) before use — the 2026-10-10 image pass.

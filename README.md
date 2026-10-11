@@ -134,3 +134,19 @@ auto-boxes were rejected and every box placed manually, verified against the
 printed characters). Every plate was read back with the research model's own
 eyes via the `Read` tool before use — plate 2's first nudge attempt was
 reverted when the original box proved exact.
+
+## Telephone1882 — The Exchange at Last (the telephone comes to Hong Kong, 1877–89)
+
+Reworked thread, 11 October 2026. Four document plates, all from image-series
+twins of the cited pages; each highlight box re-seated by
+`tools/scan_highlights.py` and every plate read back with the research model's
+own eyes via the `Read` tool before use (plate 1's first auto-box landed on the
+wrong paragraph after a -139px drift re-seat and was re-made with a deeper
+keyword — "Gower-Bell" — before acceptance).
+
+| file | what it shows | source | credit / licence |
+|---|---|---|---|
+| `cm1881_singapore_hl.jpg` | The China Mail, 18 Feb 1881, p. 2 — the Singapore comparison editorial; boxes on the "thirty subscribers / ordered from England / Gower-Bell loud-speaking Telephone" lines and the "noisiest offices / monthly subscription of $10" lines. | https://hkintexts.histsyn.com/image-page/1194586 | The China Mail, 18 Feb 1881, p. 2; hkintexts image series, accessed 11 Oct 2026. Public record (1881 newspaper). |
+| `cm1881_oriental_agm_hl.jpg` | The China Mail, 21 May 1881, p. 9 — "The Institution of the Telephone Exchange… promises soon to become an accomplished fact in Hongkong"; box on the "Oriental Telephone Comp[any's] … agents … Gibb, Livingstone and Co." line. | https://hkintexts.histsyn.com/image-page/1194915 | The China Mail, 21 May 1881, p. 9; hkintexts image series, accessed 11 Oct 2026. Public record (1881 newspaper). |
+| `gaz1881_edison_petition_hl.jpg` | The Hongkong Government Gazette, 28 May 1881, p. 383 — the notice of Joseph Morris's petition (as agent for Thomas A. Edison) for the Carbon Telephone patent; box on "the Carbon Telephone, for which Letters" line. | https://hkintexts.histsyn.com/image-page/1505059 | Hongkong Government Gazette, 28 May 1881; hkintexts image series, accessed 11 Oct 2026. Public record (1881 government gazette). |
+| `gaz1881_bell_edison_ad_hl.jpg` | The Hongkong Government Gazette, 12 Nov 1881, p. 1004 — the full "BELL & EDISON'S SYSTEM" advertisement ($150/yr town subscription; boundaries West Gas Works / East Police Station No. 2 / South Caine & Kennedy Roads; signed A. Suenson, 10 Nov 1881); box on the "Permission having been granted" lines. | https://hkintexts.histsyn.com/image-page/1505669 | Hongkong Government Gazette, 12 Nov 1881; hkintexts image series, accessed 11 Oct 2026. Public record (1881 government gazette). |

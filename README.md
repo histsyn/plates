@@ -111,3 +111,26 @@ OpenCV crop/box (the three artefact plates, drawn on the crop of CO 129/197).
 Every plate was read back with the research model's own eyes via the `Read`
 tool before use; the ohk4 plate's second box had to be redrawn by eye after
 the tool seated it one line low.
+
+## Typhoon1937 — The Typhoon That Broke Every Record (2 September 1937)
+
+The 1937 English papers (China Mail / Daily Press) have no image-series twin —
+their pictorial record survives only as printed captions. All five plates
+below come from the 工商日報 (Kung Sheung Daily Press) scans, the one 1937
+series the image index holds.
+
+| file | what it shows | source | credit / licence |
+|---|---|---|---|
+| `plate1_anlee_photo.jpg` | 工商日報, 3 Sept 1937, p. 9 — the stranded steamer An Lee photographed after her drift, with both vertical captions 「遇險後之安利輪」 and 「(美環攝贈)」 (photo contributed by the Mei Hwan studio); no highlight — a photograph plate. | https://hkintexts.histsyn.com/image-page/469421 | 工商日報, 3 Sept 1937, p. 9; hkintexts image series, accessed 11 Oct 2026. Public record (1937 newspaper); photograph credited 美環 in the printed caption. |
+| `plate2_fire_160mph.jpg` | 工商日報, 3 Sept 1937, p. 9 — the Chinese official storm report (「颶風襲擊經過」) columns, four boxes: 「干諾道西一百三十五號失火」, 「焚斃溺斃及受傷之婦孺男子約逾百人」, 「焚斃溺斃及受傷之」 and the wind line 「一百六十里」 (160 m.p.h.). | https://hkintexts.histsyn.com/image-page/469421 | 工商日報, 3 Sept 1937, p. 9; hkintexts image series, accessed 11 Oct 2026. Public record (1937 newspaper). |
+| `plate3_taipo_sunk.jpg` | 工商日報, 4 Sept 1937, p. 9 — the New Territories disaster report, boxes on the headline 「大埔墟村竟有一村沉沒」, 「全村陸沉、人畜沒頂」 and 「(如)長洲海面屍浮數百」. | https://hkintexts.histsyn.com/image-page/469433 | 工商日報, 4 Sept 1937, p. 9; hkintexts image series, accessed 11 Oct 2026. Public record (1937 newspaper). |
+| `plate4_kcr_notice.jpg` | 工商日報, 8 Sept 1937, p. 9 — the KCR British Section's own Chinese notice 「九廣鐵路啓事」 (printed form 啓), boxes on the headline and the resumption line 「以待修理。約期本月十三日便可恢復行車矣。」 | https://hkintexts.histsyn.com/image-page/469481 | 工商日報, 8 Sept 1937, p. 9; hkintexts image series, accessed 11 Oct 2026. Public record (1937 newspaper). |
+| `plate5_editorial_taipo.jpg` | 工商日報, 5 Sept 1937, p. 1 — the editorial 「該想想風災善後的辦法」, box on 「大埔墟中，竟有一村完全沉沒」. | https://hkintexts.histsyn.com/image-page/469437 | 工商日報, 5 Sept 1937, p. 1; hkintexts image series, accessed 11 Oct 2026. Public record (1937 newspaper). |
+
+Typhoon1937 plates were made 11 October 2026: full scans fetched via the
+public viewer, highlight boxes drawn at character precision with OpenCV
+(the pages' OCR layer is column-interleaved — `tools/scan_highlights.py`
+auto-boxes were rejected and every box placed manually, verified against the
+printed characters). Every plate was read back with the research model's own
+eyes via the `Read` tool before use — plate 2's first nudge attempt was
+reverted when the original box proved exact.

@@ -90,3 +90,23 @@ whose OCR layer has no boxes on the ad block and was cropped by eye from the
 full scan. The read-back caught a quote error: the 1900 opening ad's
 admission is Front Seats $2.00 / Back Seats $1.00, not the 1897 ad's
 "ONE DOLLAR" — corrected in the paper, notes and post.
+
+## Heong Kong — The Village That Named the Island (香港村 / 黃竹坑舊圍)
+
+| file | what it shows | source | credit / licence |
+|---|---|---|---|
+| `heong_kong_context_1881.jpg` | The 1881 defence-committee survey sheet, southern Hong Kong Island: ABERDEEN on the coast, Staunton's Valley running inland, Deep Water Bay. | The National Archives (UK), CO 129/197; *Map of Hong Kong, To Accompany Report of Defence Committee*, 1 October 1881. Crop by this workspace. | Crown copyright 1881; public record. Crop and read 11 Oct 2026. |
+| `heong_kong_village_1881_hl.jpg` | The same crop with the place-name **Heong Kong** and its hatched village symbol boxed (red rectangle). | As above; box by this workspace, verified by reading the plate back. | Crown copyright 1881; public record. |
+| `heong_kong_label_1881.jpg` | Tight crop of the handwritten label **Heong Kong** beside the village symbol — the period romanization read by the research model's own eyes (the GLM-5.3-Flash proxy misread it twice). | As above. | Crown copyright 1881; public record. |
+| `ohk4_1845_villages_hl.jpg` | *Old Hong Kong* vol. 4, p. 151 — the 1845 surveyor's village list with boxes on "that in Heong-kong, (Little Hongkong), Wong-nai-chung, Soo-" and "1st. — Heong-kong, from whence the island derives". | https://hkintexts.histsyn.com/image-page/1587815 | *Old Hong Kong* vol. 4, 151; hkintexts image series, accessed 11 Oct 2026. Public record. |
+| `ar1853_school_hl.jpg` | Administrative Reports vol. 1, 1853, p. 191 — Enclosure No. 9, Medhurst's school report of 12 January 1853, with **Heong-Kong** boxed in the average-attendance table (26 boys), between Stanley and Aberdeen. | https://hkintexts.histsyn.com/image-page/1132820 | Administrative Reports 1853 (vol. 1), 191; hkintexts image series, accessed 11 Oct 2026. Public record. |
+| `bb1877_census_hl.jpg` | Blue Book 1877, p. 131 — the census VILLAGES list with **Heong Kong,** boxed between Aberdeen and Pok-fú Lam (223 / 186). | https://hkintexts.histsyn.com/image-page/2185611 | Blue Book 1877, 131; hkintexts image series, accessed 11 Oct 2026. Public record. |
+| `bb1932_townplanning_hl.jpg` | Blue Book 1932, p. 457 — the Town Planning lay-outs list with **Little Hong Kong (Aberdeen Valley)** boxed. | https://hkintexts.histsyn.com/image-page/2206965 | Blue Book 1932, 457; hkintexts image series, accessed 11 Oct 2026. Public record. |
+| `gaz1937_wchpath_hl.jpg` | Government Gazette, 24 September 1937, p. 45 — the roads-and-streets index with **Wong Chuk Hang Path, 716** boxed. | https://hkintexts.histsyn.com/image-page/1512614 | *Hong Kong Government Gazette*, 24 Sept 1937, 45; hkintexts image series, accessed 11 Oct 2026. Public record. |
+
+Heong Kong plates were made 11 October 2026 with `tools/scan_highlights.py`
+(the five document plates; highlight boxes re-seated on the ink bands) and
+OpenCV crop/box (the three artefact plates, drawn on the crop of CO 129/197).
+Every plate was read back with the research model's own eyes via the `Read`
+tool before use; the ohk4 plate's second box had to be redrawn by eye after
+the tool seated it one line low.

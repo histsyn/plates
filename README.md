@@ -222,3 +222,29 @@ quoted continuation in the next one.
 | `plate_foc_1843_bazaars_hl.jpg` | *Friend of China and Hongkong Gazette*, 15 June 1843, printed p. 53 — three right-column boxes: the crime report "houses now erecting near the **Upper Bazaar**… the **mat huts**", the ad "C. N. Miles, & Co., 7, **Webster's Bazaar**, near the Hong Kong Market", and "J. Mc. Murray, Baker… **Lower Bazaar**… SHIP BISCUIT" | https://hkintexts.histsyn.com/image-page/569924 | The Friend of China and Hongkong Gazette, 15 June 1843; hkintexts image series, accessed 12 Oct 2026. Out of copyright. |
 | `plate_foc_1844_indictment_hl.jpg` | *Friend of China and Hongkong Gazette*, 28 August 1844, printed p. 484 — two boxes: col 3 "A certain locality, now known as the **Upper Bazaar**, was specially set apart… the lots were registered… upwards of a hundred invested their all…", col 4 "up their allotments to public competition… this **tyrannical measure**… only known to a few of his creatures… knocked down for a mere trifle… **$40 each** as compensation" | https://hkintexts.histsyn.com/image-page/612284 | The Friend of China and Hongkong Gazette, 28 August 1844; hkintexts image series, accessed 12 Oct 2026. Out of copyright. |
 | `plate_bb1852_lowerbazaar_hl.jpg` | Blue Book 1852 (handwritten manuscript) — box on "Drains — In effecting some of the **improvements in the Lower Bazaar** it was necessary to lengthen and reconstruct some of the old drains" | https://hkintexts.histsyn.com/image-page/2179525 | Blue Book 1852, Hong Kong; hkintexts image series, accessed 12 Oct 2026. Public record. |
+
+## WaterFamine — The City That Begged for Rain (Hong Kong's water shortages, 1851–1988)
+
+Reworked thread, 12 October 2026. Four document plates, all from
+image-series twins of the cited pages; every plate was read back by the
+session model's own eyes at its final crop before use (the §6B gate).
+The two newspaper/bulletin plates use the **column crop** rather than the
+whole page (the broadsheet exception); the two report pages are the whole
+page with the highlight boxes on it. The DIB box was re-seated by hand
+(first pass's OFF=+349 had clipped the opening 「三至六」) and the 工商日報
+box was re-painted onto its target column before acceptance.
+
+| file | what it shows | source | credit / licence |
+|---|---|---|---|
+| `sp1886_famine_hl.jpg` | Sessional Paper No. 42 of 1886, "Despatch Respecting the Recent Water Famine" — the title block, presented to the Legislative Council by command 17 September 1886. Box on the title line. | https://hkintexts.histsyn.com/image-page/1604935 | Sessional Papers, Hongkong, 1886–1887, No. 42; hkintexts image series, accessed 12 Oct 2026. Out of copyright. |
+| `ar1929_famine_hl.jpg` | *Annual Report on the Colony of Hong Kong for the Year 1929*, printed p. 4 — the water-famine narrative; box on "41,000,000 gallons remained in the island reservoirs". | https://hkintexts.histsyn.com/image-page/429923 | Administrative Reports, Hongkong, 1929; hkintexts image series, accessed 12 Oct 2026. Public record. |
+| `dib1988_wilson_crop.jpg` | *Daily Information Bulletin*, 12 October 1988, printed p. 31 — column crop of the Governor (Wilson) at LegCo; box on 「三至六四年間曾發生旱災，市民每四天才獲供水四小時。」 The preceding column ends 「立法局議員當記得，一九六」 — 「一九六」 sits just outside the box (noted in the paper's figcaption). | https://hkintexts.histsyn.com/image-page/1595453 | Daily Information Bulletin, 12 Oct 1988; hkintexts image series, accessed 12 Oct 2026. Public record. |
+| `ksyp1929_kaifong_crop.jpg` | 工商日報, 11 July 1929, printed p. 11 — column crop of the kaifong street-committee meeting (column headed 「羅文錦演說詞」); box on 「當此水荒時期、民間疾苦、……、望政府體恤居民之艱辛」. The four characters between 「民間疾苦」 and 「望政府」 are not legible on the scan and are left untranslated (gap F2 in the paper's register). | https://hkintexts.histsyn.com/image-page/221633 | 工商日報, 11 July 1929; hkintexts image series, accessed 12 Oct 2026. Out of copyright. |
+
+WaterFamine plates were made 12 October 2026. The sessional-paper and
+Annual-Report plates use `tools/scan_highlights.py` whole-page highlights;
+the two newspaper/bulletin plates are hand-seated column crops (the DIB
+box by `/tmp/opencode/fb/wf/paint_dib3.py`, the 工商日報 box by
+`paint_ksyp4.py`, both after probe crops were read back and the original
+boxes rejected). All four were read with the research model's own eyes via
+the `Read` tool before use.

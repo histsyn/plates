@@ -204,3 +204,21 @@ strip), `dir1866_hotel_co.jpg` (untouched spread, printed pp. 146–147),
 Page-number note: the 1866 leaf is indexed as p. 8 but **prints 146**;
 the 1869 calendar leaf is indexed as text p. 30 / image p. 29 but
 **prints 18**. Cite the printed number.
+
+## Bazaar1841 — The First Auction and the Bazaars (1841–1844)
+
+Five document plates for the paper on the June 1841 Crown land sale and the
+Upper/Lower Bazaar. Every plate was read back by the session model's own eyes
+at its final published crop (the §6B gate), 12 October 2026; two were
+hand-repainted after the gate caught defects — the 1843 plate's original box
+landed on a merged OCR line spanning both newspaper columns, and the 1844
+plate's original box covered the entire middle column while missing the
+quoted continuation in the next one.
+
+| file | what it shows | source | credit / licence |
+|---|---|---|---|
+| `plate_1841_sale_hl.jpg` | *Directory and Chronicle for China* 1841, printed p. 351 — the "Journal of Occurrences" report of the first land sale, red box on paragraph 1: "only **40 lots**, having sea frontage of 100 feet each… on the **seaward-side of the road**. Lots on the **land-side** of it, and hill and suburban lots in general, it will yet require some time to mark out" | https://hkintexts.histsyn.com/image-page/1000068 | Directory and Chronicle for China, 1841; hkintexts image series, accessed 12 Oct 2026. Out of copyright. |
+| `plate_census_1841_hl.jpg` | The 1841 census list, printed p. 289 — box on "**In the Bazaar.** — 800", the row that puts 800 people in the Bazaar a month before the auction | https://hkintexts.histsyn.com/image-page/1000004 | The Hongkong Gazette / Directory and Chronicle for China, 1841; hkintexts image series, accessed 12 Oct 2026. Out of copyright. |
+| `plate_foc_1843_bazaars_hl.jpg` | *Friend of China and Hongkong Gazette*, 15 June 1843, printed p. 53 — three right-column boxes: the crime report "houses now erecting near the **Upper Bazaar**… the **mat huts**", the ad "C. N. Miles, & Co., 7, **Webster's Bazaar**, near the Hong Kong Market", and "J. Mc. Murray, Baker… **Lower Bazaar**… SHIP BISCUIT" | https://hkintexts.histsyn.com/image-page/569924 | The Friend of China and Hongkong Gazette, 15 June 1843; hkintexts image series, accessed 12 Oct 2026. Out of copyright. |
+| `plate_foc_1844_indictment_hl.jpg` | *Friend of China and Hongkong Gazette*, 28 August 1844, printed p. 484 — two boxes: col 3 "A certain locality, now known as the **Upper Bazaar**, was specially set apart… the lots were registered… upwards of a hundred invested their all…", col 4 "up their allotments to public competition… this **tyrannical measure**… only known to a few of his creatures… knocked down for a mere trifle… **$40 each** as compensation" | https://hkintexts.histsyn.com/image-page/612284 | The Friend of China and Hongkong Gazette, 28 August 1844; hkintexts image series, accessed 12 Oct 2026. Out of copyright. |
+| `plate_bb1852_lowerbazaar_hl.jpg` | Blue Book 1852 (handwritten manuscript) — box on "Drains — In effecting some of the **improvements in the Lower Bazaar** it was necessary to lengthen and reconstruct some of the old drains" | https://hkintexts.histsyn.com/image-page/2179525 | Blue Book 1852, Hong Kong; hkintexts image series, accessed 12 Oct 2026. Public record. |

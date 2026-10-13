@@ -273,3 +273,27 @@ read back (`/tmp/opencode/fb/ice1845/paint_ar.py`); the China Mail plate
 is a hand-cut column crop of the price-war notices. All four were read
 with the research model's own eyes via the `Read` tool before use.
 
+
+## Trams1904 — The Trams Take the Praya (the electric tramway's two-stage opening, 1902–1904)
+
+Reworked thread, 13 October 2026. Four document plates, all from
+image-series twins of the cited pages; every plate was read back by the
+session model's own eyes at its final crop before use (the §6B gate). The
+two China Mail plates are **column crops** (the broadsheet exception); the
+Gazette and Blue Book plates are whole pages with the highlight boxes on
+them.
+
+| file | what it shows | source | credit / licence |
+|---|---|---|---|
+| `plate_trials_col.jpg` | China Mail, 4 July 1904, printed p. 5 — column crop of the trial-trips report; box on "To the clanging of the alarm-bell, and". | https://hkintexts.histsyn.com/image-page/1320716 | China Mail, Hongkong, 4 July 1904; hkintexts image series, accessed 13 Oct 2026. Out of copyright. |
+| `plate_gaz_rules_hl.jpg` | Government Gazette, 29 July 1904, printed p. 1309 — Notification No. 531, the Rules made under s.36 on 27 July 1904; box on Rule 6 ("All rules… shall be exhibited in the following public places… In every Tram car, The General Post Office, All Public Piers, Cricket Ground, Central Market."). | https://hkintexts.histsyn.com/image-page/1560997 | Government Gazette, Hongkong, 29 July 1904; hkintexts image series, accessed 13 Oct 2026. Public record. |
+| `plate_cm_opening_col.jpg` | China Mail, Saturday 30 July 1904, printed p. 5 — column crop carrying "Section Opened For Traffic" (Mrs Jones at the controller) and, to its right, the Tramway Rules reprint. | https://hkintexts.histsyn.com/image-page/1320901 | China Mail, Hongkong, 30 July 1904; hkintexts image series, accessed 13 Oct 2026. Out of copyright. |
+| `plate_bb_ledger_hl.jpg` | Blue Book 1904, p. 108 — the (G 4) Legislation ledger; DATE column (27th July / 9th August) vs TRANSMITTED TO ENGLAND column (29th July / 12th August); box on the 9 August resolution row. | https://hkintexts.histsyn.com/image-page/2193210 | Blue Book, Hongkong, 1904; hkintexts image series, accessed 13 Oct 2026. Public record. |
+
+Trams1904 plates were made 13 October 2026 (the China Mail plates are
+hand-cut column crops; the Gazette and Blue Book boxes were verified on
+the whole-page highlights). All four were read with the research model's
+own eyes via the `Read` tool before use. Note: the same printed leaf
+(img-1320901) carries the opening report, the Rules reprint and the
+"nine and a quarter miles" line-length paragraph — the line length was
+read by eye on that leaf because its OCR garbles it.

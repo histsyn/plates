@@ -248,3 +248,28 @@ box by `/tmp/opencode/fb/wf/paint_dib3.py`, the 工商日報 box by
 `paint_ksyp4.py`, both after probe crops were read back and the original
 boxes rejected). All four were read with the research model's own eyes via
 the `Read` tool before use.
+
+## IceHouse1845 — Winter by the Pound (the Ice House and the first ice trade, 1843–1876)
+
+Reworked thread, 13 October 2026. Four document plates, all from
+image-series twins of the cited pages; every plate was read back by the
+session model's own eyes at its final crop before use (the §6B gate).
+The China Mail plate is a **column crop** (the broadsheet exception); the
+other three are the whole page with the highlight boxes on it. The AR
+pathway box was seated by hand on the ink band after the OCR layer's own
+box was rejected.
+
+| file | what it shows | source | credit / licence |
+|---|---|---|---|
+| `gaz1845_notice_hl.jpg` | Government Gazette, 1 November 1845 (reprint leaf) — the 22 July 1845 Ice House opening notice ("Price 5 cents per lb. … L. A. STONE, Agent") and the 21 October shareholder notice on one page; box on the opening notice's price line. | https://hkintexts.histsyn.com/image-page/612806 | Government Gazette, Hongkong, 1 Nov 1845; hkintexts image series, accessed 13 Oct 2026. Public record. |
+| `ar1849_pathway_hl.jpg` | Administrative Reports, vol. 1 (1841–86), printed p. 143 — the 1849 works list; box on "1st. A pathway from the ice-house to the church and Government offices." | https://hkintexts.histsyn.com/image-page/1132753 | Administrative Reports, Hongkong, vol. 1; hkintexts image series, accessed 13 Oct 2026. Public record. |
+| `gaz1874_patent_hl.jpg` | Government Gazette, 17 October 1874, printed p. 582 — Letters Patent notice No. 162 to John Kyle "for Improvements in Apparatus for the Manufacture of Ice"; box on the notice's number/date block. | https://hkintexts.histsyn.com/image-page/1455626 | Government Gazette, Hongkong, 17 Oct 1874; hkintexts image series, accessed 13 Oct 2026. Public record. |
+| `cm1876_price_war_hl.jpg` | China Mail, 4 May 1876, printed p. 2 — column crop of the two one-cent ice notices side by side ("HONGKONG ICE COMPANY … ONE CENT per Pound. KYLE & BAIN" beside "TUDOR COMPANY … NATURAL ICE … ONE CENT per Pound. JOHN F. HORGAN, Agent"); both boxes on the "ONE CENT" lines. | https://hkintexts.histsyn.com/image-page/1187683 | China Mail, 4 May 1876; hkintexts image series, accessed 13 Oct 2026. Out of copyright. |
+
+IceHouse1845 plates were made 13 October 2026. The 1845 gazette leaf and
+the 1874 patent notice use `tools/scan_highlights.py` whole-page
+highlights; the AR pathway box was painted by hand after a probe crop was
+read back (`/tmp/opencode/fb/ice1845/paint_ar.py`); the China Mail plate
+is a hand-cut column crop of the price-war notices. All four were read
+with the research model's own eyes via the `Read` tool before use.
+

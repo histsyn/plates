@@ -297,3 +297,17 @@ own eyes via the `Read` tool before use. Note: the same printed leaf
 (img-1320901) carries the opening report, the Rules reprint and the
 "nine and a quarter miles" line-length paragraph — the line length was
 read by eye on that leaf because its OCR garbles it.
+
+OpiumFarm plates were made 15 October 2026 and read back by the research
+model's own eyes at their final crops (the §6B gate; the 1910 Blue Book box
+was re-seated by hand after the tool's box landed one line low). The
+Gazette's Chinese-conditions plate is a section crop of a vertical-text
+page (the §6B column-crop exception — see the thread's images/README.md).
+
+| File | What it shows | Viewer link | Credit |
+|---|---|---|---|
+| `bb1885_farm_hl.jpg` | Blue Book 1885, p. A 8 — the OPIUM block; box on "From March 1st, 1885, the Opium Farm, including Dross Opium, leased for $159,000 a year." | https://hkintexts.histsyn.com/image-page/2187372 | Blue Book, Hongkong, 1885; hkintexts image series, accessed 15 Oct 2026. Public record. |
+| `gaz1909_notice_hl.jpg` | Government Gazette, 2 July 1909, printed p. 432 — G.N. No. 401, the tender notice; box on the notice's first line; page carries the 900-chest condition. | https://hkintexts.histsyn.com/image-page/1473785 | Government Gazette, Hongkong, 2 July 1909; hkintexts image series, accessed 15 Oct 2026. Public record. |
+| `gaz1909_indiaclause_sec.jpg` | The same issue, printed p. 452 — the Chinese conditions 續增承充鴉片烟餉章程 (section crop of a vertical-text page); box on the India clause's opening columns (「惟如當承充期內適值印度政府將生烟坭減少出境…」). | https://hkintexts.histsyn.com/image-page/1473793 | Government Gazette, Hongkong, 2 July 1909; hkintexts image series, accessed 15 Oct 2026. Public record. |
+| `bb1910_monopoly_hl.jpg` | Blue Book 1910, p. A 8 — "OPIUM MONOPOLY… leased from 1st March, 1910, to 28th February, 1913, at $98,600.00 per mensem"; box on the lease line (hand re-seated). | https://hkintexts.histsyn.com/image-page/2195995 | Blue Book, Hongkong, 1910; hkintexts image series, accessed 15 Oct 2026. Public record. |
+| `bb1914_boiling_hl.jpg` | Blue Book 1914, p. J 80 — the Imports and Exports Office staff table; box on "BOILING DEPARTMENT"; remark "(1) New establishment under Government Opium Monopoly". | https://hkintexts.histsyn.com/image-page/2198418 | Blue Book, Hongkong, 1914; hkintexts image series, accessed 15 Oct 2026. Public record. |

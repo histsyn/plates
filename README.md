@@ -354,3 +354,19 @@ by hand (PIL) after the OCR-based tool proved unreliable on these leaves.
 | `images/scan_1587881.jpg` | Old Hong Kong, vol. 4, p. 217 — "the Tung Hing… demolished, the Tung Hing as recently as 1925" (modern-secondary) | https://hkintexts.histsyn.com/image-page/1587881 |
 
 All plates from the hkintexts public viewer (no external photographs; no credit lines owed).
+
+## HoKomTong (added 2026-10-25)
+
+| File | What it shows | Source |
+|---|---|---|
+| `images/portrait_ho_kom_tong.jpg` | Ho Kom-tong (何甘棠), printed portrait, c. 1908, from Arnold Wright (ed.), *Twentieth Century Impressions of Hongkong, Shanghai and other Treaty Ports of China* (1908) | Wikimedia Commons, File:Ho Kam Tong.jpg (public domain) |
+| `images/plate_gaz1905_pcmoappendix_hl.jpg` | Gazette, 28 April 1905, PCMO Report 1904 appendix, printed p. 606 — Ho Kom-tong's carbolic-acid letter of 26 Sept 1904 (highlight on the opening) | https://hkintexts.histsyn.com/image-page/1562282 |
+| `images/plate_gaz1905_plaguehandbill_hl.jpg` | Same appendix, printed p. 607 — the plague-disinfection handbill signed HO KAM TONG | https://hkintexts.histsyn.com/image-page/1562283 |
+| `images/plate_cm1903_petitions_p4_hl.jpg` | China Mail, 7 April 1903, p. 4 — the leader "TWO PETITIONS CONTRASTED" (highlight on the Blake line); `cm1903` resized 3579→1800 px for hosting | https://hkintexts.histsyn.com/image-page/1316951 |
+| `images/ksyp_19500120_funeral_col.jpg` | 工商日報, 20 January 1950 — the family's funeral notice; resized 2190→1800 px | https://hkintexts.histsyn.com/image-page/487225 |
+| `images/plate_gaz1907_scholarship_hl.jpg` | Gazette / Central School report 1907, printed p. 220 — the three brothers' scholarships on one page, HO KOM-TONG highlighted | https://hkintexts.histsyn.com/image-page/1466219 |
+| `images/plate_gaz1910_jurors_hl.jpg` | Gazette, 18 February 1910, printed p. 103 — jurors' list, Ho Fook / Ho Kai / Ho Kom-tong / Ho Tung on one sheet | https://hkintexts.histsyn.com/image-page/1476664 |
+| `images/ksyp_19601021_sale_col_hl.jpg` | 工商日報, 21 October 1960, p. 5 — 「甘棠第易主」 headline (red box) and lead (blue box) | https://hkintexts.histsyn.com/image-page/546218 |
+
+All corpus plates from the hkintexts public viewer (public record / out of
+copyright); the portrait is Wikimedia Commons public domain.

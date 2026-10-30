@@ -386,3 +386,25 @@ copyright); the portrait is Wikimedia Commons public domain.
 All plates from the hkintexts public viewer (public record / out of copyright);
 each was eye-read at its final bytes during the §6B pass of 2026-10-30. The two
 broadsheets are column crops per the 2026-10-19 newspaper rule.
+
+## Lighthouses (added 2026-10-30)
+
+The Light Another Government Built — Hong Kong's lighthouses and the
+fifteen-year argument over Gap Rock and Waglan, 1867–1901.
+
+| File | What it shows | Source |
+|---|---|---|
+| `images/plate_ntm43_fisher_island_hl.jpg` | Gazette, 15 May 1875, printed p. 213, G.N. 93 — the Colonial Secretary's publication clause **and** the Chinese Customs' Notice to Mariners No. 43 for the **Fisher Island Lighthouse, Pescadores**, signed at Shanghai by David M. Henderson, Engineer-in-Chief; the leaf above carries sailing directions for the Coast of Sind | https://hkintexts.histsyn.com/image-page/1455942 |
+| `images/plate_gaz1888_governor_message_hl.jpg` | Gazette, 20 October 1888, printed p. 962 — the Governor's message of 27 August 1888 (LegCo No. 17): the Cape d'Aguilar → Waglan removal plan and the subsidy strategy | https://hkintexts.histsyn.com/image-page/1536112 |
+| `images/plate_ntm262_waglan_works_hl.jpg` | Gazette, 18 February 1893, G.N. 62, printed p. 114 — the Chinese Customs' Notice to Mariners No. 262 headed "Government of China", the Waglan Island Lighthouse works in progress; Shanghai, 3 February 1893, signed A. M. Bisbee | https://hkintexts.histsyn.com/image-page/1540992 |
+| `images/plate_ntm269_waglan_light_hl.jpg` | Gazette, 17 June 1893, G.N. 235, printed p. 580 — Notice to Mariners No. 269: the light "exhibited for the first time at sunset on the 10th ultimo", the N.B. recording 30 per cent of full power on first lighting, both Bisbee signatures; the same leaf carries the Customs' Fitzroy Island (Kiukiang) notice No. 268 | https://hkintexts.histsyn.com/image-page/1541430 |
+| `images/plate_gaz1895_coode_report_hl.jpg` | Gazette, 2 March 1895, G.N. 75, printed p. 152 — the Coode, Son & Matthews report on the Gap Rock Lighthouse (Hongkong, 10 January 1895), opened by recording that the Governor cabled the Governor of Ceylon to borrow an engineer | https://hkintexts.histsyn.com/image-page/1543307 |
+| `images/plate_gaz1897_light_dues_hl.jpg` | Gazette, 8 May 1897, printed p. 298 — G.N. 172 (the Light Dues papers) and G.N. 175, the notification of the "Statement shewing Annual cost of and Revenue derived from the Gap Rock and other Lighthouses, for the years 1893, 1894, and 1895" | https://hkintexts.histsyn.com/image-page/1546433 |
+| `images/plate_legco1901_takeover_hl.jpg` | Gazette, 16 March 1901, printed p. 492 — Financial Minute C.S.O. 456 of 1901, signed Sir Henry Blake: $2,943.60 to buy the Waglan Light Station's furniture and appurtenances, the station "taken over by the Government on the 2nd instant" | https://hkintexts.histsyn.com/image-page/1553931 |
+
+All plates are gazette leaves (single-column documents, so the full page with
+its highlight boxes is the production file), from the hkintexts public viewer
+(public record / out of copyright). Each was eye-read at its final bytes
+during the §6B pass of 2026-10-30. Printed folios are read off the scans; the
+gazette image series' `title` numbers are index offsets and are recorded as
+variance, never cited.

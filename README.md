@@ -370,3 +370,19 @@ All plates from the hkintexts public viewer (no external photographs; no credit 
 
 All corpus plates from the hkintexts public viewer (public record / out of
 copyright); the portrait is Wikimedia Commons public domain.
+
+## KaiTak1925 (added 2026-10-30)
+
+| File | What it shows | Source |
+|---|---|---|
+| `images/cm1919_sitevisit_col.jpg` | China Mail, 11 April 1919, p. 4 (column crop) — the Kai Tack Land Investment Company's reclamation: "the greatest work of reclamation ever yet attempted"; "first conceived by Dr. Wu Ting Fang… fostered by the late Sir Kai Ho Kai"; "230 acres"; "an exclusively Chinese enterprise" | https://hkintexts.histsyn.com/image-page/1731746 |
+| `images/gaz1927_resumption_hl.jpg` | Government Gazette, 8 July 1927, printed p. 300 — G.N. 418, the Crown's resumption of the Kai Tack Reclamation (37 lots; bilingual, Chinese column 啟德公司) | https://hkintexts.histsyn.com/image-page/1462599 |
+| `images/ar1927_37lots_hl.jpg` | Administrative Report 1927 — "37 lots on the Kai Tak Reclamation… $1,001,250.00… No Board sat. The Company ultimately agreed to accept and was paid… $1,001,250" | https://hkintexts.histsyn.com/image-page/429018 |
+| `images/gaz1931_hangar_hl.jpg` | Government Gazette, 23 January 1931, printed p. 107 — G.N. S. 34: "Tender for Kai Tack Air Port—Cement Concrete Foundations for Aeroplane Hangar" | https://hkintexts.histsyn.com/image-page/1475272 |
+| `images/gaz1932_definition_hl.jpg` | Government Gazette, 15 January 1932, printed p. 22 — G.N. 31, Air Navigation Directions s. 5: "part of the Kowloon Bay or Kai Tak Reclamation"; boundary stones K.T.A. 1–6 | https://hkintexts.histsyn.com/image-page/1479020 |
+| `images/dir1920_company_hl.jpg` | Directory & Chronicle, 1920, printed p. 995 — 「司公限有業營德啟」(= 啟德營業有限公司, right-to-left) / KAI TACK LAND INVESTMENT Co.; Au Tack chairman; Little, Adams & Wood | https://hkintexts.histsyn.com/image-page/932310 |
+| `images/ksyp1934_airdefence_col.jpg` | 工商日報, 21 November 1934, p. 1 (column crop) — the air-defence exercise: 「假設之敵機一架由啟德機場方面飛來」 | https://hkintexts.histsyn.com/image-page/453607 |
+
+All plates from the hkintexts public viewer (public record / out of copyright);
+each was eye-read at its final bytes during the §6B pass of 2026-10-30. The two
+broadsheets are column crops per the 2026-10-19 newspaper rule.

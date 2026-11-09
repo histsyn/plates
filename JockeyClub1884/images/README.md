@@ -1,0 +1,24 @@
+# JockeyClub1884 — image manifest (§6B gate log)
+
+All plates below were read back by the session model's own eyes at their
+**final bytes** (2026-11-10). The newspaper plates are column/notice
+crops; gazette leaves are full-page with hand-painted amber boxes (the
+OCR layer could not seat boxes on these leaves — no `ocrBoxes` match or
+gated series; boxes were measured from probe crops and re-read).
+
+| file | what it shows | source (public viewer) | read-back |
+|---|---|---|---|
+| `cm_18841104_founding.jpg` / `_hl.jpg` | China Mail No. 6840, 4 Nov 1884, p3: the founding report of the Hongkong Jockey Club — headline boxed + resolution 2 ("That this association be called the Hongkong Jockey Club, and that it be hereby constituted") boxed | https://hkintexts.histsyn.com/image-page/1198038 | PASS — both boxes on the intended lines (headline fully boxed; resolution text fully boxed) |
+| `cm_18940222_totalisator.jpg` / `_hl.jpg` | China Mail No. 9031, 22 Feb 1894, p3: the 1893-meeting retrospective — "the discarded totalisator of the previous year did business in a quiet, unobtrusive way" boxed (with "the splendid Grand Stand of the Jockey Club was opened by His Excellency and Lady Robinson" in the same column) | https://hkintexts.histsyn.com/image-page/1209634 | PASS — four-line box encloses the sentence fully |
+| `ksyp_19300225_derby.jpg` / `_hl.jpg` | 工商日報, 25 Feb 1930, p2: the Derby-sweep ban — notice box A (僑港欖鎮同鄉會: 「出之打吡馬票現忽奉警司函諭停止進行」, dated 民國十九年二月廿一日) + box C (news headline 「兩社團馬票被禁」) ; unboxed beside them the 旅港八邑商會's 馬票 draw notice (Shek Tong Tsui restaurant, 25 Feb) | https://hkintexts.histsyn.com/image-page/439392 | PASS — box A encloses the halt notice's columns; box C encloses 「兩社團馬票被禁」 |
+| `gaz_1891_gambling.jpg` / `_hl.jpg` | Government Gazette, 9 May 1891, printed p401: The Gambling Ordinance, 1891 (No. 7 of 1891) — boxes: (i) the lottery definition ("…or the result of any race or contest…"); (ii) s.2(A)(3) ("In which any commission, or per-centage is charged…"); (iii) s.3 (the social-club clause) | https://hkintexts.histsyn.com/image-page/1538989 (gated series — archive admin session) | PASS — three boxes re-seated after the first read-back; all on the intended clauses |
+| `gaz_1931_bill_b.jpg` / `gaz_1931_enacted_p920_hl.jpg` | Gazette, 18 Dec 1931, printed p920: **Betting Duty Ordinance, 1931 (No. 40 of 1931)** as assented — boxes: (i) "No. 40 OF 1931 / I assent / W. PEEL / 18th December 1931"; (ii) s.3 ("Ordinary race, jockey or hunt clubs… conduct totalisator or pari-mutuel betting…") | https://hkintexts.histsyn.com/image-page/1473303 (gated — admin session) | PASS — head + s.3 boxes seated after nudges |
+| `gaz_1931_enacted_1473304.jpg` / `gaz_1931_enacted_p921_hl.jpg` | Gazette, 18 Dec 1931, printed p921: the enacted ordinance's duty page — boxes: (i) s.6(1) ("…a duty of three per cent. of the amount paid, contributed or subscribed"); (ii) s.9 (the 1891 Act amended: "other than totalisators, pari-mutuels and cash-sweeps authorised under the Betting Tax Ordinance, 1931…") | https://hkintexts.histsyn.com/image-page/1473304 (gated — admin session) | PASS — both boxes re-seated; s.6(1) now fully enclosed |
+| `gaz_1926_traffic_1457958.jpg` / `gaz_1926_traffic_hl.jpg` | Gazette Supplement No. 3 of 22 Jan 1926, p26: Police Notice No. S. 18 — "on the days fixed for the Races at Wong-Nei-Chung… under Ordinance No. 2 of 1869" — boxes: (i) the notice head; (ii) clause VII (dogs; "stray dogs may be destroyed by the Police") | https://hkintexts.histsyn.com/image-page/1457958 (gated — admin session) | PASS — head + clause VII seated after nudges |
+
+Spares (fetched, not wired): `gaz_1931_bill_a.jpg` (the Bill print, C.S.O. 3215/30, printed p1314 — s.1–5, no assent head); `gaz_1931_duty_p921.jpg` (an earlier draft print, printed p1197 — "Betting Tax Ordinance" wording — K-register material); `gaz_1926_traffic.jpg` (the supplement cover indexing "Traffic Regulations on days fixed for the Races..26"); raw untouched scans of every plate.
+
+Notes:
+- Printed-folio vs index-title variance: gaz_1891 leaf: title "Page 399", **printed 401**; gaz_1931 p920: title "Page 932", **printed 920** (of 18 Dec 1931); p921: title "Page 934"?? (the fetched duty leaf p921: title "Page 1184" for the draft print — the enacted p921 leaf title undetermined, **printed 921**); 1926 leaf: title "Page 32", **printed 26** (supplement pagination). The PRINTED folio governs (AGENTS.md rule).
+- Gated series: the government-gazette image series required the archive admin login (`imageHidden: false` only for the logged-in session); the images are used here for verification and are hosted as plates with the viewer links above (the VictoriaGaol/LooAking precedent).
+- The ksyp leaf's printed masthead says 中華民國十九年二月廿五日 and 第五版 (page label), against the index title "1930-02-25 p2" — variant registered.

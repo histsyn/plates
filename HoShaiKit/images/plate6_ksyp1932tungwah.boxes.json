@@ -1,0 +1,24 @@
+{
+ "stem": "plate6_ksyp1932tungwah",
+ "boxes": [
+  {
+   "phrase": "何世傑",
+   "unit": "characters",
+   "chars": 3,
+   "box": [
+    1407,
+    4168,
+    1473,
+    4294
+   ],
+   "cell_start": 0,
+   "column_text": "何世傑翁",
+   "column_box": [
+    1411,
+    4172,
+    1469,
+    4330
+   ]
+  }
+ ]
+}

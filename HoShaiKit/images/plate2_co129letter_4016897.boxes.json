@@ -1,0 +1,33 @@
+{
+ "stem": "plate2_co129letter_4016897",
+ "boxes": [
+  {
+   "phrase": "instead of in my name",
+   "unit": "lines",
+   "chars": 1,
+   "box": [
+    1554,
+    831,
+    2060,
+    872
+   ],
+   "lines": [
+    "Chan Kai Ming instead of in my name."
+   ]
+  },
+  {
+   "phrase": "Ho Shai Kit.",
+   "unit": "lines",
+   "chars": 1,
+   "box": [
+    1845,
+    921,
+    2097,
+    962
+   ],
+   "lines": [
+    "(ad) Ho Shai Kit."
+   ]
+  }
+ ]
+}

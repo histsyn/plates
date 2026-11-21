@@ -1,0 +1,19 @@
+{
+ "stem": "plate3_co129despatch_4016895",
+ "boxes": [
+  {
+   "phrase": "$98,600",
+   "unit": "lines",
+   "chars": 1,
+   "box": [
+    1619,
+    1376,
+    2401,
+    1425
+   ],
+   "lines": [
+    "Council I decided to accept the second tender of $98,600"
+   ]
+  }
+ ]
+}

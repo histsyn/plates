@@ -1,0 +1,19 @@
+{
+ "stem": "plate1_cm1909tender",
+ "boxes": [
+  {
+   "phrase": "Ho Shai-kit, who is, we are informed, a son",
+   "unit": "lines",
+   "chars": 1,
+   "box": [
+    335,
+    2166,
+    768,
+    2211
+   ],
+   "lines": [
+    "Ho Shai-kit, who is, we are informed, a son"
+   ]
+  }
+ ]
+}

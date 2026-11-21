@@ -1,0 +1,24 @@
+{
+ "stem": "plate7_ksyp1950announce",
+ "boxes": [
+  {
+   "phrase": "何世傑",
+   "unit": "characters",
+   "chars": 3,
+   "box": [
+    3007,
+    2308,
+    3154,
+    2590
+   ],
+   "cell_start": 3,
+   "column_text": "家老爺何世傑之",
+   "column_box": [
+    3011,
+    2039,
+    3150,
+    2678
+   ]
+  }
+ ]
+}

@@ -1,0 +1,24 @@
+{
+ "stem": "plate8_ksyp1931chamber",
+ "boxes": [
+  {
+   "phrase": "何世傑",
+   "unit": "characters",
+   "chars": 3,
+   "box": [
+    1661,
+    3863,
+    1721,
+    3995
+   ],
+   "cell_start": 21,
+   "column_text": "陳實棧林杏邨那景雲陳碧泉利源長何滿生何世亮何世傑容子名",
+   "column_box": [
+    1665,
+    3002,
+    1717,
+    4115
+   ]
+  }
+ ]
+}

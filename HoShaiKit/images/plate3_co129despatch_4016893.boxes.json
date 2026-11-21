@@ -1,0 +1,19 @@
+{
+ "stem": "plate3_co129despatch_4016893",
+ "boxes": [
+  {
+   "phrase": "Sassoon",
+   "unit": "lines",
+   "chars": 1,
+   "box": [
+    1901,
+    1642,
+    2393,
+    1693
+   ],
+   "lines": [
+    "Compradore of Messrs. N. D. Sassoon"
+   ]
+  }
+ ]
+}

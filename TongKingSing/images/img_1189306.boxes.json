@@ -1,0 +1,12 @@
+{
+  "plate": "img_1189306.jpg",
+  "boxes": [
+    {
+      "phrase": "Mr Tong King Sing being able to figure up a profit of Tls 300,000",
+      "unit": "lines",
+      "chars": 2
+    }
+  ],
+  "verified_at": "2026-11-22",
+  "verifier": "model"
+}

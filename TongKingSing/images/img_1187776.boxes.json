@@ -1,0 +1,12 @@
+{
+  "plate": "img_1187776.jpg",
+  "boxes": [
+    {
+      "phrase": "the Director of the China Merchants Steam Navigation Company, Mr Tong King-sing, was going to resign his post",
+      "unit": "lines",
+      "chars": 2
+    }
+  ],
+  "verified_at": "2026-11-22",
+  "verifier": "model"
+}

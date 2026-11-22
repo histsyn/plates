@@ -1,0 +1,12 @@
+{
+  "plate": "portrait_tong_king_sing_pc27-002.jpg",
+  "boxes": [
+    {
+      "phrase": "MR. TONG KING SING / FOUNDER OF THE KAIPING. RY",
+      "unit": "characters",
+      "chars": 42
+    }
+  ],
+  "verified_at": "2026-11-22",
+  "verifier": "model"
+}

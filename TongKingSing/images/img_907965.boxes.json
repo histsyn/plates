@@ -1,0 +1,12 @@
+{
+  "plate": "img_907965.jpg",
+  "boxes": [
+    {
+      "phrase": "Managing Director—Tong King Sing, CHINESE ENGINEERING AND MINING COMPANY",
+      "unit": "lines",
+      "chars": 2
+    }
+  ],
+  "verified_at": "2026-11-22",
+  "verifier": "model"
+}

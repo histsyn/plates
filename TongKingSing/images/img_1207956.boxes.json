@@ -1,0 +1,12 @@
+{
+  "plate": "img_1207956.jpg",
+  "boxes": [
+    {
+      "phrase": "MR. TONG KING SING PASSES AWAY AT VO TIENTSIN",
+      "unit": "lines",
+      "chars": 1
+    }
+  ],
+  "verified_at": "2026-11-22",
+  "verifier": "model"
+}

@@ -1,0 +1,12 @@
+{
+  "plate": "img_1188391.jpg",
+  "boxes": [
+    {
+      "phrase": "I, Tong King-sing, and your other directors have transacted foreign business for nearly twenty years",
+      "unit": "lines",
+      "chars": 2
+    }
+  ],
+  "verified_at": "2026-11-22",
+  "verifier": "model"
+}

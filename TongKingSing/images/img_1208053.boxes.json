@@ -1,0 +1,12 @@
+{
+  "plate": "img_1208053.jpg",
+  "boxes": [
+    {
+      "phrase": "FUNERAL OF MR TONG KING SING... all the Native Officials, including Viceroy Li Hung-chang",
+      "unit": "lines",
+      "chars": 2
+    }
+  ],
+  "verified_at": "2026-11-22",
+  "verifier": "model"
+}

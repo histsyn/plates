@@ -1,0 +1,12 @@
+{
+  "plate": "img_2999586.jpg",
+  "boxes": [
+    {
+      "phrase": "The charges against Tong Akū... resulted in his entire acquittal",
+      "unit": "lines",
+      "chars": 3
+    }
+  ],
+  "verified_at": "2026-11-22",
+  "verifier": "model"
+}

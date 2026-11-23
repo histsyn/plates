@@ -422,3 +422,24 @@ variance, never cited.
 | `bb1940_titlepage_hl.jpg` | *Hong Kong Blue Book for the Year 1940* — the last volume's title page, "Printed by Noronha and Co., Ltd., Government Printers, 1941" | https://hkintexts.histsyn.com/image-page/2210708 | Hong Kong Blue Book for the Year 1940, title page; hkintexts image series, accessed 11 Nov 2026. Public record. |
 | `gaz1877_legco_bluebook_hl.jpg` | *Hong Kong Government Gazette*, 17 Nov 1877, p. 497 — the Governor quoting the Blue Book for 1876 against the Government in Council | https://hkintexts.histsyn.com/image-page/1457284 | Government Gazette (Hong Kong), 17 Nov 1877, p. 497; hkintexts image series, accessed 11 Nov 2026. Public record. |
 | `gaz1892_legco_tabled_hl.jpg` | *Hong Kong Government Gazette*, 11 June 1892, p. 558 — the Blue Book for 1891 and the Report on it tabled in Council | https://hkintexts.histsyn.com/image-page/1540344 | Government Gazette (Hong Kong), 11 Jun 1892, p. 558; hkintexts image series, accessed 11 Nov 2026. Public record. |
+
+## SaiYingPun — 西營盤 / Sai Ying Pun: the Western Camp and the making of a district name, 1841–1941
+
+| File | What it shows | Source | Credit / licence |
+|---|---|---|---|
+| `images/co129010_barracks_hl.jpg` | CO 129/10 (Pottinger), printed p. 51 (the folio is stamped 51; the text index reads p. 53) — the public-works report from Government Hill, 12 November 1841: "the west barracks that were erected by virtue of a contract entered into with Captain Cotton … been found to afford insufficient protection to the Bengal Volunteers who are located there" | https://hkintexts.histsyn.com/image-page/2927189 | CO 129/10, Hong Kong (Pottinger), p. 51; The National Archives manuscript via the archive's image server, accessed 23 Nov 2026. Public record. |
+| `images/bb1845_seiyingpoon_hl.jpg` | *Blue Book of Hongkong for the year 1845*, printed [125] — the occupation return's own heading "Sei-ying-poon." with its subtotal 19, above the colony total of 1,074 houses | https://hkintexts.histsyn.com/image-page/2177547 | Blue Book of Hongkong for the year 1845, printed [125]; hkintexts image series, accessed 23 Nov 2026. Public record. |
+| `images/gaz1856_westpoint_hl.jpg` | *Hong Kong Government Gazette*, 11 October 1856, Notification No. 103, printed p. 2 — the Crown land sale "on the ground at West Point", with the Chinese column dividing the district's name between two vertical columns (「初一下午三點鐘在西營」/「盤地方有官地十八叚出」) | https://hkintexts.histsyn.com/image-page/1447638 | Government Gazette (Hong Kong), 11 Oct 1856, No. 103, p. 2; hkintexts image series, accessed 23 Nov 2026. Public record. |
+| `images/gaz1862_market_hl.jpg` | *Hong Kong Government Gazette*, 22 February 1862, Notification No. 18, printed p. 54 — "Item 6.—Construction of a Market at Syingpoon.", with the Chinese column printing the district's name with 盆 (「建造西營盆街市」) | https://hkintexts.histsyn.com/image-page/1449105 | Government Gazette (Hong Kong), 22 Feb 1862, No. 18, p. 54; hkintexts image series, accessed 23 Nov 2026. Public record. |
+| `images/gaz1866_districts_hl.jpg` | *Hong Kong Government Gazette*, 25 August 1866, Ordinance No. 7 of 1866 (Victoria Registration Ordinance), printed p. 336 — section III's nine districts, with "(2) Sai Ying Poon" second | https://hkintexts.histsyn.com/image-page/1451080 | Government Gazette (Hong Kong), 25 Aug 1866, Ordinance No. 7 of 1866, p. 336; hkintexts image series, accessed 23 Nov 2026. Public record. |
+| `images/gaz1927_thirdstreet_zh_hl.jpg` | *Hong Kong Government Gazette*, 9 September 1927, the Registrar of Marriages' list of licensed places of worship, printed p. 374 — the Chinese address column 「西營盤第三街九十六號」, whose English counterpart on p. 373 reads "96, Third Street, West Point" | https://hkintexts.histsyn.com/image-page/1462668 | Government Gazette (Hong Kong), 9 Sep 1927, p. 374; hkintexts image series, accessed 23 Nov 2026. Public record. |
+| `images/gaz1932_latrine_hl.jpg` | *Hong Kong Government Gazette*, 4 November 1932, Sanitary Department No. S. 445, printed p. 1716 — the proposed public latrine "on the site of the Old Sai Ying Pun Market", with the Chinese column 「正街與第二街交界之處卽西營盤舊街市」 | https://hkintexts.histsyn.com/image-page/1485224 | Government Gazette (Hong Kong), 4 Nov 1932, Sanitary Dept No. S. 445, p. 1716; hkintexts image series, accessed 23 Nov 2026. Public record. |
+
+All plates are government documents (single-column leaves, a Blue Book page and
+one manuscript leaf), so the full page with its highlight boxes is the
+production file; there is no broadsheet in this set. Every plate was eye-read
+at its final bytes during the §6B pass of 23 November 2026, and the box data
+lives in the thread's `images/<stem>.boxes.json`. Printed folios are read off
+the scans; the gazette image series' `title` numbers are index offsets and are
+recorded as variance, never cited. The 1841 CO 129 leaf is cropped to the
+report's six manuscript lines.

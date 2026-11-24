@@ -1,12 +1,42 @@
 {
-  "plate": "img_1207956.jpg",
+  "plate": "img_1207956_hl.jpg",
+  "source_page": "img_1207956.jpg",
+  "crop": [
+    2835,
+    1714,
+    3366,
+    3124
+  ],
+  "delivered_size": [
+    1200,
+    3186
+  ],
+  "delivered_scale": 2.2599,
   "boxes": [
     {
-      "phrase": "MR. TONG KING SING PASSES AWAY AT VO TIENTSIN",
+      "phrase": "Mr Tong King Sing is well known in Hongkong, and was the founder of the C.M.S.N. Company",
       "unit": "lines",
-      "chars": 1
+      "chars": 3,
+      "phrase_chars": 67,
+      "bbox": [
+        2902,
+        2372,
+        3317,
+        2466
+      ],
+      "crop": [
+        2835,
+        1714,
+        3366,
+        3124
+      ],
+      "lines_matched": [
+        "King Sing is well known in Hongkoug,",
+        "and was the founderof the C.M.S. N. Com.",
+        "pany He celebrated his 6lst birthday in"
+      ]
     }
   ],
-  "verified_at": "2026-11-22",
+  "verified_at": "2026-11-23",
   "verifier": "model"
 }

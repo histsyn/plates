@@ -1,12 +1,41 @@
 {
-  "plate": "img_1188391.jpg",
+  "plate": "img_1188391_hl.jpg",
+  "source_page": "img_1188391.jpg",
+  "crop": [
+    1617,
+    1019,
+    2239,
+    2129
+  ],
+  "delivered_size": [
+    1200,
+    2141
+  ],
+  "delivered_scale": 1.9293,
   "boxes": [
     {
-      "phrase": "I, Tong King-sing, and your other directors have transacted foreign business for nearly twenty years",
+      "phrase": "I, Tong King-sing, and your other directors have transacted foreign business",
       "unit": "lines",
-      "chars": 2
+      "chars": 2,
+      "phrase_chars": 63,
+      "bbox": [
+        1695,
+        1537,
+        2181,
+        1611
+      ],
+      "crop": [
+        1617,
+        1019,
+        2239,
+        2129
+      ],
+      "lines_matched": [
+        "I. Tong King-sing, and your other direo-",
+        "tors have transacted foreign business for"
+      ]
     }
   ],
-  "verified_at": "2026-11-22",
+  "verified_at": "2026-11-23",
   "verifier": "model"
 }

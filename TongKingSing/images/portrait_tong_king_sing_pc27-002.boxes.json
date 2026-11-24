@@ -1,12 +1,35 @@
 {
-  "plate": "portrait_tong_king_sing_pc27-002.jpg",
+  "plate": "portrait_tong_king_sing_pc27-002_hl.jpg",
+  "source_page": "portrait_tong_king_sing_pc27-002.jpg",
+  "crop": [
+    0,
+    0,
+    760,
+    1020
+  ],
+  "delivered_size": [
+    760,
+    1020
+  ],
+  "delivered_scale": 1.0,
   "boxes": [
     {
       "phrase": "MR. TONG KING SING / FOUNDER OF THE KAIPING. RY",
-      "unit": "characters",
-      "chars": 42
+      "unit": "lines",
+      "chars": 2,
+      "phrase_chars": 35,
+      "bbox": [
+        245,
+        906,
+        470,
+        950
+      ],
+      "lines_matched": [
+        "MR. TONG KING SING",
+        "FOUNDER OF THE KAIPING. RY"
+      ]
     }
   ],
-  "verified_at": "2026-11-22",
+  "verified_at": "2026-11-23",
   "verifier": "model"
 }

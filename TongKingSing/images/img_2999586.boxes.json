@@ -1,12 +1,40 @@
 {
-  "plate": "img_2999586.jpg",
+  "plate": "img_2999586_hl.jpg",
+  "source_page": "img_2999586.jpg",
+  "crop": [
+    836,
+    450,
+    1346,
+    1050
+  ],
+  "delivered_size": [
+    1200,
+    1411
+  ],
+  "delivered_scale": 2.3529,
   "boxes": [
     {
-      "phrase": "The charges against Tong Akū... resulted in his entire acquittal",
+      "phrase": "The charges against Tong Akü",
       "unit": "lines",
-      "chars": 3
+      "chars": 1,
+      "phrase_chars": 23,
+      "bbox": [
+        900,
+        730,
+        1299,
+        770
+      ],
+      "crop": [
+        836,
+        450,
+        1346,
+        1050
+      ],
+      "lines_matched": [
+        "The charges against Tong Akü, the in-"
+      ]
     }
   ],
-  "verified_at": "2026-11-22",
+  "verified_at": "2026-11-23",
   "verifier": "model"
 }

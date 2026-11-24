@@ -1,12 +1,40 @@
 {
-  "plate": "img_1208053.jpg",
+  "plate": "img_1208053_hl.jpg",
+  "source_page": "img_1208053.jpg",
+  "crop": [
+    1963,
+    1626,
+    2488,
+    2211
+  ],
+  "delivered_size": [
+    1200,
+    1337
+  ],
+  "delivered_scale": 2.2857,
   "boxes": [
     {
-      "phrase": "FUNERAL OF MR TONG KING SING... all the Native Officials, including Viceroy Li Hung-chang",
+      "phrase": "FUNERAL OF MR TONG KING SING",
       "unit": "lines",
-      "chars": 2
+      "chars": 1,
+      "phrase_chars": 23,
+      "bbox": [
+        2029,
+        1899,
+        2439,
+        1938
+      ],
+      "crop": [
+        1963,
+        1626,
+        2488,
+        2211
+      ],
+      "lines_matched": [
+        "FUNERAL OF MR TONG KING SING."
+      ]
     }
   ],
-  "verified_at": "2026-11-22",
+  "verified_at": "2026-11-23",
   "verifier": "model"
 }

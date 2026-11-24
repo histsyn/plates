@@ -1,12 +1,41 @@
 {
-  "plate": "img_1189306.jpg",
+  "plate": "img_1189306_hl.jpg",
+  "source_page": "img_1189306.jpg",
+  "crop": [
+    2689,
+    244,
+    3317,
+    1339
+  ],
+  "delivered_size": [
+    1200,
+    2092
+  ],
+  "delivered_scale": 1.9108,
   "boxes": [
     {
-      "phrase": "Mr Tong King Sing being able to figure up a profit of Tls 300,000",
+      "phrase": "Mr Tong King Sing being able to figure up a profit of Tls 300,000 per annum",
       "unit": "lines",
-      "chars": 2
+      "chars": 2,
+      "phrase_chars": 59,
+      "bbox": [
+        2768,
+        755,
+        3259,
+        828
+      ],
+      "crop": [
+        2689,
+        244,
+        3317,
+        1339
+      ],
+      "lines_matched": [
+        "Mr Tong King Sing being able to figure",
+        "up a profit of Tla. 300,000 per annum"
+      ]
     }
   ],
-  "verified_at": "2026-11-22",
+  "verified_at": "2026-11-23",
   "verifier": "model"
 }

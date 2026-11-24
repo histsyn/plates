@@ -1,12 +1,62 @@
 {
-  "plate": "img_1187776.jpg",
+  "plate": "img_1187776_hl.jpg",
+  "source_page": "img_1187776.jpg",
+  "crop": [
+    1629,
+    854,
+    2255,
+    1781
+  ],
+  "delivered_size": [
+    1200,
+    1776
+  ],
+  "delivered_scale": 1.9169,
   "boxes": [
     {
-      "phrase": "the Director of the China Merchants Steam Navigation Company, Mr Tong King-sing, was going to resign his post",
+      "phrase": "the Director of the China Merchants Steam Navigation Company, Mr Tong King-sing",
       "unit": "lines",
-      "chars": 2
+      "chars": 2,
+      "phrase_chars": 66,
+      "bbox": [
+        1708,
+        1274,
+        2196,
+        1334
+      ],
+      "crop": [
+        1629,
+        854,
+        2255,
+        1781
+      ],
+      "lines_matched": [
+        "that the Director of the China Merchants",
+        "Steam Navigation Company, Mr Tong King-"
+      ]
+    },
+    {
+      "phrase": "sing, was going to resign his post",
+      "unit": "lines",
+      "chars": 1,
+      "phrase_chars": 27,
+      "bbox": [
+        1709,
+        1325,
+        2197,
+        1361
+      ],
+      "crop": [
+        1629,
+        854,
+        2255,
+        1781
+      ],
+      "lines_matched": [
+        "sing, was going to resign his post; but we"
+      ]
     }
   ],
-  "verified_at": "2026-11-22",
+  "verified_at": "2026-11-23",
   "verifier": "model"
 }

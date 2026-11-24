@@ -1,12 +1,61 @@
 {
-  "plate": "img_1011755.jpg",
+  "plate": "img_1011755_hl.jpg",
+  "source_page": "img_1011755.jpg",
+  "crop": [
+    0,
+    943,
+    914,
+    1921
+  ],
+  "delivered_size": [
+    1200,
+    1284
+  ],
+  "delivered_scale": 1.3129,
   "boxes": [
     {
-      "phrase": "Manager—Tong King Sing, CHINA MERCHANTS' STEAM NAVIGATION COMPANY",
+      "phrase": "CHINA MERCHANTS STEAM NAVIGATION COMPANY",
       "unit": "lines",
-      "chars": 2
+      "chars": 1,
+      "phrase_chars": 36,
+      "bbox": [
+        111,
+        1363,
+        806,
+        1419
+      ],
+      "crop": [
+        0,
+        943,
+        914,
+        1921
+      ],
+      "lines_matched": [
+        "CHINA MERCHANTS STEAM NAVIGATION"
+      ]
+    },
+    {
+      "phrase": "Tong-king Sing, manager",
+      "unit": "lines",
+      "chars": 1,
+      "phrase_chars": 19,
+      "bbox": [
+        89,
+        1441,
+        826,
+        1501
+      ],
+      "crop": [
+        0,
+        943,
+        914,
+        1921
+      ],
+      "lines_matched": [
+        "Tong-king Sing, manager"
+      ]
     }
   ],
-  "verified_at": "2026-11-22",
+  "verified_at": "2026-11-23",
   "verifier": "model"
 }

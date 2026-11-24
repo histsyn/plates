@@ -1,12 +1,61 @@
 {
-  "plate": "img_907965.jpg",
+  "plate": "img_907965_hl.jpg",
+  "source_page": "img_907965.jpg",
+  "crop": [
+    566,
+    796,
+    1161,
+    1404
+  ],
+  "delivered_size": [
+    1200,
+    1226
+  ],
+  "delivered_scale": 2.0168,
   "boxes": [
     {
-      "phrase": "Managing Director—Tong King Sing, CHINESE ENGINEERING AND MINING COMPANY",
+      "phrase": "CHINESE ENGINEERING AND MINING COMPANY",
       "unit": "lines",
-      "chars": 2
+      "chars": 1,
+      "phrase_chars": 34,
+      "bbox": [
+        664,
+        1055,
+        1106,
+        1090
+      ],
+      "crop": [
+        566,
+        796,
+        1161,
+        1404
+      ],
+      "lines_matched": [
+        "CHINESE ENGINEERING AND MINING"
+      ]
+    },
+    {
+      "phrase": "Tong King Sing, managing director",
+      "unit": "lines",
+      "chars": 1,
+      "phrase_chars": 28,
+      "bbox": [
+        641,
+        1108,
+        1053,
+        1145
+      ],
+      "crop": [
+        566,
+        796,
+        1161,
+        1404
+      ],
+      "lines_matched": [
+        "Tong King Sing, managing director"
+      ]
     }
   ],
-  "verified_at": "2026-11-22",
+  "verified_at": "2026-11-23",
   "verifier": "model"
 }

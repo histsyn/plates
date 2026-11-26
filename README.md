@@ -443,3 +443,18 @@ lives in the thread's `images/<stem>.boxes.json`. Printed folios are read off
 the scans; the gazette image series' `title` numbers are index offsets and are
 recorded as variance, never cited. The 1841 CO 129 leaf is cropped to the
 report's six manuscript lines.
+
+## LaiManWai — 黎民偉 (1893–1953): One Man in Two Records
+
+| File | What it shows | Source | Credit / licence |
+|---|---|---|---|
+| `images/plate1_osawa_lai_man_wai_hl.jpg` | Carl Smith card, handwritten — the name line "Lai Man Wei 黎民偉", 1915, staff J. Osawa & Co., Queen's Road Central; the pairing document | https://hkintexts.histsyn.com/image-page/10461 | Carl Smith index card, 1915; hkintexts image series, accessed 25 Nov 2026. Archive document. |
+| `images/plate2_osawa_lai_pak_hoi_hl.jpg` | Carl Smith card, handwritten — the name line "Lai Pak Ho 黎北海", 1915, the same firm and year; the brother pairing | https://hkintexts.histsyn.com/image-page/10480 | Carl Smith index card, 1915; hkintexts image series, accessed 25 Nov 2026. Archive document. |
+| `images/plate3_ar1923_tungwah_hl.jpg` | *Administrative Reports* 1923, p. 58 — the heading "The following gentlemen were elected to form the Committee for 1924" and the list's "Lai Man-wai," | https://hkintexts.histsyn.com/image-page/425504 | Administrative Reports, Hong Kong, 1923, p. 58; hkintexts image series, accessed 25 Nov 2026. Public record. |
+| `images/plate4_beiming1924_hl.jpg` | 《香港碑銘彙編》 vol. 2, p. 163 — one vertical column of the Tung Wah inscription, the boxes on 「甲子年總理」 and 「黎民偉翁」 | https://hkintexts.histsyn.com/image-page/1338247 | 《香港碑銘彙編》 vol. 2, p. 163; hkintexts image series, accessed 25 Nov 2026. Compiled inscription record. |
+| `images/plate5_cm19240107_board_hl.jpg` | *China Mail*, 7 Jan 1924, p. 1 — "TUNG WAH HOSPITAL / NEW BOARD OF DIRECTORS." and the line "H. M. H. Nemazěe; Lai Man-wai;" | https://hkintexts.histsyn.com/image-page/2296480 | *China Mail*, 7 Jan 1924, p. 1; hkintexts image series, accessed 25 Nov 2026. Public record. |
+| `images/plate6_dc1924_scaa_hl.jpg` | *Directory and Chronicle* 1924, p. 1149 — "SOUTH CHINA ATHLETIC ASSOCIATION—" and "Hon. Treasurer—Lai Man Wai" | https://hkintexts.histsyn.com/image-page/937794 | *Directory and Chronicle for China, Japan &c.*, 1924, p. 1149; hkintexts image series, accessed 25 Nov 2026. Public record. |
+
+All six plates were eye-read at their final bytes during the §6B pass of
+25 November 2026 (bytes identical on copy); the box data lives in the
+thread's `images/<stem>.boxes.json`.

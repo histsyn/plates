@@ -458,3 +458,17 @@ report's six manuscript lines.
 All six plates were eye-read at their final bytes during the §6B pass of
 25 November 2026 (bytes identical on copy); the box data lives in the
 thread's `images/<stem>.boxes.json`.
+
+## DiocesanSchools — The Diocesan Pair (DBS and DGS), 1860–1940
+
+| file | what it shows | source | credit / licence |
+|---|---|---|---|
+| `images/plate_dir1865_nuaitsai.jpg` | *Directory & Chronicle* 1865, printed p. 124 — "DIOCESAN NATIVE FEMALE TRAINING SCHOOL. / 女仔館 / Nu-tsai-coon / BONHAM ROAD"; the frame marks the two lines of the Chinese name and its romanization | https://hkintexts.histsyn.com/image-page/1008379 | *Directory & Chronicle for China, Japan &c.*, 1865, p. 124; hkintexts image series, accessed 26 Nov 2026. Public record. |
+| `images/plate_dir1866_nuaitsai.jpg` | *Directory & Chronicle* 1866, printed p. 142 — "DIOCESAN FEMALE TRAINING & INDUSTRIAL SCHOOLS. BONHAM ROAD. / 女仔館 / Nu-tsai-coon / Teacher—Miss Oxlad"; the frame marks the three lines of the entry | https://hkintexts.histsyn.com/image-page/896325 | *Directory & Chronicle for China, Japan &c.*, 1866, p. 142; hkintexts image series, accessed 26 Nov 2026. Public record. |
+| `images/plate_dir1881_staff.jpg` | *Directory & Chronicle* 1881, printed p. 198 — the Diocesan Home & Orphanage staff block: "Hon. Treasurer—Hon. W. Keswick … English Master—Geo. Piercy … Inmates—24 Boarders (boys) … 9 day scholars"; the frame marks the eight staff lines | https://hkintexts.histsyn.com/image-page/1013615 | *Directory & Chronicle for China, Japan &c.*, 1881, p. 198; hkintexts image series, accessed 26 Nov 2026. Public record. |
+| `images/plate_gaz1892_ord10.jpg` | Hong Kong Government Gazette, 4 June 1892 — the ordinance as published: "No. 10 OF 1892. An Ordinance … for the incorporation of the Chairman of the Committee of the Diocesan School and Orphanage … [28th May, 1892.]", signed William Robinson, Governor; the frame marks the nine lines of the title block | https://hkintexts.histsyn.com/image-page/1540329 | *Hong Kong Government Gazette*, 4 June 1892; hkintexts image series, accessed 26 Nov 2026. Public record. |
+| `images/plate_car1925_inspection.jpg` | *Administrative Reports 1920–1930*, vol. 4, printed p. 483 — the November 1925 chronicle line "H.E. the Governor's Inspection of the New Diocesan School (30/11)"; the frame marks the two printed lines carrying the entry | https://hkintexts.histsyn.com/image-page/1134711 | *Administrative Reports of Hong Kong, 1920–1930*, vol. 4, p. 483; hkintexts image series, accessed 26 Nov 2026. Public record. |
+
+All five plates were eye-read at their final bytes during the §6B pass of
+26 November 2026 (bytes identical on copy); the box data lives in the
+thread's `images/<stem>.boxes.json`.

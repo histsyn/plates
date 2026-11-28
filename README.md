@@ -473,7 +473,7 @@ All five plates were eye-read at their final bytes during the §6B pass of
 26 November 2026 (bytes identical on copy); the box data lives in the
 thread's `images/<stem>.boxes.json`.
 
-## LeeWaiTong — 李惠堂 Lee Wai Tong (1905–1979): Therecord of the "King of Asian Football" to 1941
+## LeeWaiTong — 李惠堂 Lee Wai Tong (1905–1979): the colonial record to 1941
 
 | file | what it shows | source | credit / licence |
 |---|---|---|---|

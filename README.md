@@ -472,3 +472,16 @@ thread's `images/<stem>.boxes.json`.
 All five plates were eye-read at their final bytes during the §6B pass of
 26 November 2026 (bytes identical on copy); the box data lives in the
 thread's `images/<stem>.boxes.json`.
+
+## LeeWaiTong — 李惠堂 Lee Wai Tong (1905–1979): Therecord of the "King of Asian Football" to 1941
+
+| file | what it shows | source | credit / licence |
+|---|---|---|---|
+| `images/plate_cm_1923-05-25_osaka_wire.jpg` | *China Mail*, 25 May 1923, p. 11 — the Reuters wire from the 6th Far Eastern Games: "Osaka, May 24. In the final of the Football, China defeated Japan by 5 to 1." (OCR prints "fajam"); the frame marks the two wire lines — the final's result, printed with no scorer names | https://hkintexts.histsyn.com/image-page/2294129 | *China Mail*, 25 May 1923, p. 11; hkintexts image series, accessed 28 Nov 2026. Public record. |
+| `images/plate_ksyp_1935-12-23_sixiang.jpg` | 工商日報, 23 Dec 1935, sports p. 12 — 「昨日尋常杯足球賽 … 李惠堂饒勇過人竟造成『四喜』」: the Chinese record's first thread sighting, South China 5–2 with Lee's four goals; the frame marks the headline's name line and the 「四喜」 verdict | https://hkintexts.histsyn.com/image-page/459855 | 工商日報 (Kung Sheung Daily News), 23 Dec 1935, p. 12; hkintexts image series, accessed 28 Nov 2026. Public record. |
+| `images/plate_ksyp_1936-04-23_departure.jpg` | 工商日報, 23 Apr 1936, sports p. 12 — the Olympic departure headline 「昨又有一批世運足球代表 李惠堂定今晨乘機飛滬」; the frame marks the headline block naming 李惠堂 | https://hkintexts.histsyn.com/image-page/461617 | 工商日報 (Kung Sheung Daily News), 23 Apr 1936, p. 12; hkintexts image series, accessed 28 Nov 2026. Public record. |
+| `images/plate_gaz_1938_jurors_lee.jpg` | *Hong Kong Government Gazette*, 25 March 1938, the Revised List of Justices of the Peace and jurors (printed p. 203) — the row "Lee Wai-tong … Secretary, The Swedish Trading Co. … On premises."; the frame marks the name and the occupation column | https://hkintexts.histsyn.com/image-page/1514365 | *Hong Kong Government Gazette*, 25 Mar 1938, p. 203; hkintexts image series, accessed 28 Nov 2026. Public record. |
+
+All four plates were eye-read at their final bytes during the §6B pass of
+28 November 2026 (bytes identical on copy, md5 checked); the box data lives in
+the thread's `images/<stem>.boxes.json`.

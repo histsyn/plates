@@ -1,0 +1,21 @@
+{
+ "boxes": [
+  {
+   "phrase": "Yaumati Fruit Market",
+   "label": "Yaumati Fruit Market",
+   "colour": [
+    220,
+    30,
+    30
+   ],
+   "rect": [
+    190,
+    573,
+    1322,
+    649
+   ],
+   "chars": 2,
+   "unit": "lines"
+  }
+ ]
+}

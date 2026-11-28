@@ -1,0 +1,72 @@
+{
+ "boxes": [
+  {
+   "phrase": "Fish Mongers, 36",
+   "label": "Fish Mongers, 36",
+   "colour": [
+    220,
+    30,
+    30
+   ],
+   "rect": [
+    187,
+    362,
+    897,
+    389
+   ],
+   "chars": 1,
+   "unit": "lines"
+  },
+  {
+   "phrase": "Vegetable Sellers, 15",
+   "label": "Vegetable Sellers, 15",
+   "colour": [
+    220,
+    30,
+    30
+   ],
+   "rect": [
+    180,
+    2072,
+    890,
+    2102
+   ],
+   "chars": 1,
+   "unit": "lines"
+  },
+  {
+   "phrase": "菜欄十五",
+   "label": "菜欄十五",
+   "colour": [
+    220,
+    30,
+    30
+   ],
+   "rect": [
+    985,
+    144,
+    1033,
+    309
+   ],
+   "chars": 4,
+   "unit": "characters"
+  },
+  {
+   "phrase": "魚欄三十六",
+   "label": "魚欄三十六",
+   "colour": [
+    220,
+    30,
+    30
+   ],
+   "rect": [
+    1616,
+    1188,
+    1664,
+    1397
+   ],
+   "chars": 5,
+   "unit": "characters"
+  }
+ ]
+}

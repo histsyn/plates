@@ -1,0 +1,38 @@
+{
+ "boxes": [
+  {
+   "phrase": "Reclamation Street, (opened 1st Sept., 1913)",
+   "label": "Reclamation Street, (opened 1st Sept., 1913)",
+   "colour": [
+    220,
+    30,
+    30
+   ],
+   "rect": [
+    211,
+    1131,
+    2125,
+    1168
+   ],
+   "chars": 1,
+   "unit": "lines"
+  },
+  {
+   "phrase": "Praya East, (opened 1st December, 1913)",
+   "label": "Praya East, (opened 1st December, 1913)",
+   "colour": [
+    220,
+    30,
+    30
+   ],
+   "rect": [
+    209,
+    1093,
+    2124,
+    1127
+   ],
+   "chars": 1,
+   "unit": "lines"
+  }
+ ]
+}

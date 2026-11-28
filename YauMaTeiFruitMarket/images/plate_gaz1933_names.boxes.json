@@ -1,0 +1,55 @@
+{
+ "boxes": [
+  {
+   "phrase": "Reclamation Street, Fruit and Vegetable Market.",
+   "label": "Reclamation Street, Fruit and Vegetable Market.",
+   "colour": [
+    220,
+    30,
+    30
+   ],
+   "rect": [
+    494,
+    221,
+    1274,
+    255
+   ],
+   "chars": 1,
+   "unit": "lines"
+  },
+  {
+   "phrase": "Reclamation Street, Poultry Market.",
+   "label": "Reclamation Street, Poultry Market.",
+   "colour": [
+    220,
+    30,
+    30
+   ],
+   "rect": [
+    493,
+    272,
+    1067,
+    306
+   ],
+   "chars": 1,
+   "unit": "lines"
+  },
+  {
+   "phrase": "Yaumati Market.",
+   "label": "Yaumati Market.",
+   "colour": [
+    220,
+    30,
+    30
+   ],
+   "rect": [
+    495,
+    877,
+    764,
+    909
+   ],
+   "chars": 1,
+   "unit": "lines"
+  }
+ ]
+}

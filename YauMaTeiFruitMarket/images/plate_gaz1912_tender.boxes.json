@@ -1,0 +1,38 @@
+{
+ "boxes": [
+  {
+   "phrase": "Tender for Erection of Vegetable Market, Yaumati",
+   "label": "Tender for Erection of Vegetable Market, Yaumati",
+   "colour": [
+    220,
+    30,
+    30
+   ],
+   "rect": [
+    110,
+    163,
+    1452,
+    199
+   ],
+   "chars": 1,
+   "unit": "lines"
+  },
+  {
+   "phrase": "a Fruit and Vegetable Market at Yaumati",
+   "label": "a Fruit and Vegetable Market at Yaumati",
+   "colour": [
+    220,
+    30,
+    30
+   ],
+   "rect": [
+    108,
+    235,
+    730,
+    270
+   ],
+   "chars": 1,
+   "unit": "lines"
+  }
+ ]
+}

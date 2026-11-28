@@ -1,0 +1,55 @@
+{
+ "boxes": [
+  {
+   "phrase": "Yaumati—Vegetable and Fruit Market",
+   "label": "Yaumati—Vegetable and Fruit Market",
+   "colour": [
+    220,
+    30,
+    30
+   ],
+   "rect": [
+    231,
+    78,
+    1363,
+    121
+   ],
+   "chars": 1,
+   "unit": "lines"
+  },
+  {
+   "phrase": "completed in July and handed over to the Sanitary Department",
+   "label": "completed in July and handed over to the Sanitary Department",
+   "colour": [
+    220,
+    30,
+    30
+   ],
+   "rect": [
+    142,
+    121,
+    1363,
+    208
+   ],
+   "chars": 2,
+   "unit": "lines"
+  },
+  {
+   "phrase": "1913 Sup. Vote 6,100.00",
+   "label": "1913 Sup. Vote 6,100.00",
+   "colour": [
+    220,
+    30,
+    30
+   ],
+   "rect": [
+    227,
+    269,
+    1283,
+    473
+   ],
+   "chars": 5,
+   "unit": "lines"
+  }
+ ]
+}
